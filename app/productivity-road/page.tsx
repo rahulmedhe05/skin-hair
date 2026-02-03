@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic on Productivity Road, Vadodara | Top Dermatologist",
-  description: "Expert skin and hair clinic on Productivity Road, Vadodara. Specialized treatment for acne, hair fall, laser & skin problems. Serving GIDC area professionals.",
-  keywords: "skin clinic productivity road, dermatologist productivity road vadodara, hair specialist productivity road, skin doctor gidc vadodara",
+  title: "Skin Clinic Productivity Road | Dermatologist",
+  description: "🏆 Top skin & hair clinic on Productivity Road, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic productivity road, dermatologist productivity road vadodara, hair clinic productivity road, skin doctor near productivity road",
 };
 
 export default function ProductivityRoadPage() {

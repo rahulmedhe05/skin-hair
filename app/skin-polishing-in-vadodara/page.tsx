@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Polishing in Vadodara | Professional Skin Polish",
-  description: "Expert skin polishing treatment in Vadodara. Microdermabrasion & skin resurfacing for smooth, glowing skin. Remove dead cells & reveal fresh skin.",
-  keywords: "skin polishing vadodara, skin polish treatment, microdermabrasion vadodara, skin resurfacing vadodara",
+  title: "Skin Polishing Vadodara ₹2,000 | Glass Skin | Book Now",
+  description: "✨ Skin polishing in Vadodara ₹2,000 ✓ Glass skin effect ✓ Microdermabrasion ✓ Remove dead cells ✓ Smooth, radiant skin. Perfect for weddings. Book now!",
+  keywords: "skin polishing vadodara, skin polish treatment vadodara, microdermabrasion cost vadodara, skin polishing near me",
 };
 
 export default function SkinPolishingPage() {

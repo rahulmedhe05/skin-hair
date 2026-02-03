@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Pigmentation Treatment in Vadodara | Dark Spots & Melasma",
-  description: "Advanced pigmentation treatment in Vadodara. Expert care for melasma, dark spots, uneven skin tone & hyperpigmentation. Safe for Indian skin.",
-  keywords: "pigmentation treatment vadodara, dark spots treatment vadodara, melasma treatment vadodara, uneven skin tone treatment",
+  title: "Pigmentation Treatment Vadodara | 80% Fading | Book",
+  description: "✅ Pigmentation treatment in Vadodara ✓ 80% fading in 6 sessions ✓ Laser + peels combo ✓ Safe for Indian skin ✓ No side effects. Starting ₹2,000. Call!",
+  keywords: "pigmentation treatment vadodara, dark spots treatment vadodara, melasma treatment vadodara, pigmentation removal cost",
 };
 
 export default function PigmentationTreatmentPage() {

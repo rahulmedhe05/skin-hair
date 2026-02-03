@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Vitiligo Treatment in Vadodara | White Patch Specialist",
-  description: "Expert vitiligo treatment in Vadodara. Specialized care for white patches, leucoderma & depigmentation. Phototherapy, medications & surgical options.",
-  keywords: "vitiligo treatment vadodara, white patches treatment, leucoderma treatment vadodara, depigmentation treatment",
+  title: "Vitiligo Treatment Vadodara | 70% Repigmentation | Book",
+  description: "✅ Vitiligo treatment in Vadodara ✓ 70% repigmentation rate ✓ Phototherapy available ✓ White patches specialist ✓ Proven results. Consultation ₹500. Call now!",
+  keywords: "vitiligo treatment vadodara, white patches treatment vadodara, leucoderma treatment vadodara, vitiligo doctor near me",
 };
 
 export default function VitiligoTreatmentPage() {

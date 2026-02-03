@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Laser Hair Removal in Vadodara | Permanent Hair Reduction",
-  description: "Advanced laser hair removal in Vadodara. Permanent hair reduction for face, underarms, bikini & full body. Safe for Indian skin with US FDA approved lasers.",
-  keywords: "laser hair removal vadodara, permanent hair removal vadodara, laser treatment vadodara, body hair removal",
+  title: "Laser Hair Removal Vadodara ₹1,500 | FDA Approved | Book",
+  description: "✨ Laser hair removal in Vadodara from ₹1,500/session ✓ US FDA approved ✓ Safe for Indian skin ✓ 90% permanent reduction. Full body available. Book now!",
+  keywords: "laser hair removal vadodara, permanent hair removal vadodara, laser treatment vadodara, full body laser hair removal cost",
 };
 
 export default function LaserHairRemovalPage() {

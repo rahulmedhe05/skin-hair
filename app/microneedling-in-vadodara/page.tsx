@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Microneedling Treatment in Vadodara | Collagen Induction",
-  description: "Professional microneedling treatment in Vadodara. Collagen induction therapy for acne scars, wrinkles, stretch marks & skin rejuvenation.",
-  keywords: "microneedling vadodara, derma roller treatment vadodara, collagen induction therapy, microneedle treatment vadodara",
+  title: "Microneedling Vadodara ₹3,000 | Collagen Boost | Book",
+  description: "✅ Microneedling in Vadodara ₹3,000/session ✓ Boosts collagen by 400% ✓ Reduces scars & wrinkles ✓ Minimal downtime. Visible results in 4 sessions. Call!",
+  keywords: "microneedling vadodara, dermaroller vadodara, microneedling cost vadodara, collagen induction therapy",
 };
 
 export default function MicroneedlingPage() {

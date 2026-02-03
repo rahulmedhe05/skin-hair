@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic on New Sama Road, Vadodara | Expert Dermatologist",
-  description: "Best skin and hair clinic on New Sama Road, Vadodara. Advanced treatment for hair fall, acne, laser hair removal & skin conditions. Convenient location.",
-  keywords: "skin clinic new sama road, dermatologist new sama road vadodara, hair specialist new sama, skin doctor new sama road",
+  title: "Skin Clinic New Sama Road | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic on New Sama Road, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic new sama road, dermatologist new sama road vadodara, hair clinic new sama road, skin doctor near new sama road",
 };
 
 export default function NewSamaRoadPage() {

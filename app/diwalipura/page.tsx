@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Diwalipura, Vadodara | Expert Dermatologist",
-  description: "Best skin and hair clinic in Diwalipura, Vadodara. Advanced treatments for acne, hair loss, laser procedures & skin conditions. Near Diwalipura area.",
-  keywords: "skin clinic diwalipura, dermatologist diwalipura vadodara, hair specialist diwalipura, skin doctor diwalipura",
+  title: "Skin Clinic Diwalipura | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Diwalipura, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic diwalipura, dermatologist diwalipura vadodara, hair clinic diwalipura, skin doctor near diwalipura",
 };
 
 export default function DiwalipuraPage() {

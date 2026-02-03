@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Vasna Bhayli Road, Vadodara | Top Dermatologist",
-  description: "Expert skin and hair clinic on Vasna Bhayli Road, Vadodara. Specialized in hair transplant, laser treatments, acne & anti-aging. Book your appointment today!",
-  keywords: "skin clinic vasna bhayli, dermatologist vasna bhayli road, hair clinic vasna vadodara, skin specialist bhayli",
+  title: "Skin Clinic Vasna Bhayli Road | Dermatologist",
+  description: "🏆 Top skin & hair clinic on Vasna Bhayli Road ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic vasna bhayli road, dermatologist vasna bhayli vadodara, hair clinic vasna bhayli, skin doctor near vasna bhayli",
 };
 
 export default function VasnaBhayliRoadPage() {

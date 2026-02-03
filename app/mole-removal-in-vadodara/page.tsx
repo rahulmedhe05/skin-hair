@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Mole Removal in Vadodara | Safe Mole Excision Specialist",
-  description: "Expert mole removal in Vadodara. Safe removal of unwanted moles with minimal scarring. Cosmetic mole removal & suspicious mole evaluation available.",
-  keywords: "mole removal vadodara, mole excision vadodara, mole removal doctor, remove moles safely vadodara",
+  title: "Mole Removal Vadodara ₹1,500 | Safe & Scarless | Book",
+  description: "✅ Mole removal in Vadodara ₹1,500 onwards ✓ Laser & surgical options ✓ Minimal scarring ✓ Same-day procedure ✓ Expert dermatologist. Book consultation!",
+  keywords: "mole removal vadodara, mole removal cost vadodara, laser mole removal, mole removal near me",
 };
 
 export default function MoleRemovalPage() {

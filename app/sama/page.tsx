@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Sama, Vadodara | Top Dermatologist Near You",
-  description: "Expert skin and hair clinic in Sama, Vadodara. Specialized treatments for all skin problems, hair loss, laser procedures & cosmetic dermatology. Book today!",
-  keywords: "skin clinic sama, dermatologist sama vadodara, hair clinic sama, skin specialist sama savli road",
+  title: "Skin & Hair Clinic in Sama | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Sama, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic sama, dermatologist sama vadodara, hair clinic sama, skin doctor near sama",
 };
 
 export default function SamaPage() {

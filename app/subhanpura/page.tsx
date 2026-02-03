@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Subhanpura, Vadodara | Expert Dermatologist",
-  description: "Best skin and hair clinic in Subhanpura, Vadodara. Advanced treatments for acne, hair loss, laser hair removal & anti-aging. Serving Subhanpura community.",
-  keywords: "skin clinic subhanpura, dermatologist subhanpura vadodara, hair specialist subhanpura, skin doctor subhanpura",
+  title: "Skin & Hair Clinic in Subhanpura | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Subhanpura, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic subhanpura, dermatologist subhanpura vadodara, hair clinic subhanpura, skin doctor near subhanpura",
 };
 
 export default function SubhanpuraPage() {

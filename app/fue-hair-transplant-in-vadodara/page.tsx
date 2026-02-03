@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "FUE Hair Transplant in Vadodara | Follicular Unit Extraction",
-  description: "Advanced FUE hair transplant in Vadodara. Scarless follicular unit extraction technique for natural hair restoration. Minimal downtime, maximum results.",
-  keywords: "fue hair transplant vadodara, follicular unit extraction vadodara, fue technique vadodara, scarless hair transplant",
+  title: "FUE Hair Transplant Vadodara ₹35,000 | No Scars | Book",
+  description: "💇 FUE hair transplant in Vadodara from ₹35,000 ✓ No linear scar ✓ 95% graft survival ✓ Natural hairline ✓ 5,000+ surgeries. Free consultation. Book now!",
+  keywords: "fue hair transplant vadodara, follicular unit extraction vadodara, fue cost vadodara, fue transplant near me",
 };
 
 export default function FUEHairTransplantPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Nizampura, Vadodara | Trusted Dermatologist",
-  description: "Best skin and hair clinic in Nizampura, Vadodara. Expert treatment for acne, hair fall, skin allergies & cosmetic procedures. Serving Nizampura area.",
-  keywords: "skin clinic nizampura, dermatologist nizampura vadodara, hair specialist nizampura, skin doctor nizampura",
+  title: "Skin & Hair Clinic in Nizampura | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Nizampura, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic nizampura, dermatologist nizampura vadodara, hair clinic nizampura, skin doctor near nizampura",
 };
 
 export default function NizampuraPage() {

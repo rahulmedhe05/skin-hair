@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Male Pattern Baldness Treatment in Vadodara | MPB Specialist",
-  description: "Effective male pattern baldness treatment in Vadodara. Stop hair loss & restore density with medications, PRP, and hair transplant options.",
-  keywords: "male pattern baldness treatment vadodara, mpb treatment vadodara, men hair loss treatment, androgenetic alopecia treatment",
+  title: "Male Pattern Baldness Treatment Vadodara | Stop MPB",
+  description: "👨 Male pattern baldness treatment in Vadodara ✓ Stop MPB progression ✓ Finasteride + PRP ✓ Hair transplant option ✓ 8,000+ patients. Consult ₹500. Book!",
+  keywords: "male pattern baldness treatment vadodara, mpb treatment vadodara, men hair loss vadodara, baldness treatment near me",
 };
 
 export default function MalePatternBaldnessPage() {

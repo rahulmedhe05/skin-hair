@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Double Chin Treatment in Vadodara | Chin Fat Removal",
-  description: "Effective double chin treatment in Vadodara. Non-surgical options for submental fat reduction. Lipolysis, Kybella alternative & contouring treatments.",
-  keywords: "double chin treatment vadodara, chin fat removal vadodara, submental fat reduction, double chin removal",
+  title: "Double Chin Treatment Vadodara | Non-Surgical | ₹10,000",
+  description: "✨ Double chin treatment in Vadodara from ₹10,000 ✓ Fat dissolving injections ✓ No surgery ✓ Defined jawline ✓ Results in 4 weeks. Book consultation now!",
+  keywords: "double chin treatment vadodara, chin fat removal vadodara, double chin removal cost, double chin near me",
 };
 
 export default function DoubleChinTreatmentPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Tag Removal in Vadodara | Quick Skin Tag Treatment",
-  description: "Quick and painless skin tag removal in Vadodara. Safe removal of skin tags from neck, underarms, eyelids & all body areas. Multiple removal methods.",
-  keywords: "skin tag removal vadodara, skin tags treatment vadodara, remove skin tags, skin tag doctor vadodara",
+  title: "Skin Tag Removal Vadodara ₹500 | Same Day | Walk-In",
+  description: "✅ Skin tag removal in Vadodara ₹500 onwards ✓ Same-day removal ✓ RF cautery ✓ Painless ✓ No scars. Neck, underarms, face. Walk-in welcome. Call now!",
+  keywords: "skin tag removal vadodara, skin tags treatment cost vadodara, remove skin tags, skin tag near me",
 };
 
 export default function SkinTagRemovalPage() {

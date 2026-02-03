@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Peeling Treatment in Vadodara | Exfoliation Therapy",
-  description: "Advanced skin peeling treatment in Vadodara. Remove dead skin cells & reveal fresh, glowing skin with professional exfoliation treatments.",
-  keywords: "skin peeling treatment vadodara, skin exfoliation vadodara, peeling treatment, dead skin removal",
+  title: "Skin Peeling Treatment Vadodara ₹2,000 | Fresh Skin | Book",
+  description: "✨ Skin peeling in Vadodara from ₹2,000 ✓ Remove dead skin layers ✓ Reveal fresh skin ✓ Brighter complexion ✓ Safe chemical peels. Book your session!",
+  keywords: "skin peeling treatment vadodara, skin exfoliation vadodara, peeling treatment cost, skin peeling near me",
 };
 
 export default function SkinPeelingTreatmentPage() {

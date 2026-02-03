@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "HydraFacial in Vadodara | Best HydraFacial Treatment",
-  description: "Premium HydraFacial treatment in Vadodara. Deep cleansing, hydration & rejuvenation for glowing skin. Instant results with no downtime.",
-  keywords: "hydrafacial vadodara, hydrafacial treatment vadodara, hydrafacial near me, best hydrafacial clinic",
+  title: "HydraFacial Vadodara ₹3,500 | Instant Glow | Book Now",
+  description: "✨ HydraFacial in Vadodara ₹3,500 ✓ Instant glow ✓ Deep cleansing ✓ Zero downtime ✓ Celebrity favorite facial. Perfect for parties & events. Book today!",
+  keywords: "hydrafacial vadodara, hydrafacial treatment vadodara, hydrafacial cost vadodara, hydrafacial near me",
 };
 
 export default function HydraFacialPage() {

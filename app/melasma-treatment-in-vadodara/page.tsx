@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Melasma Treatment in Vadodara | Dark Patch Specialist",
-  description: "Expert melasma treatment in Vadodara. Specialized care for facial dark patches, hormonal pigmentation & stubborn melasma. Safe Indian skin protocols.",
-  keywords: "melasma treatment vadodara, dark patches face treatment, chloasma treatment vadodara, facial pigmentation specialist",
+  title: "Melasma Treatment Vadodara | 70% Fading | Safe | Book",
+  description: "✅ Melasma treatment in Vadodara ✓ 70% fading in 3 months ✓ Safe for Indian skin ✓ Laser + peels + creams ✓ Stubborn patches treated. Starting ₹2,000. Call!",
+  keywords: "melasma treatment vadodara, dark patches treatment vadodara, chloasma treatment vadodara, melasma cost",
 };
 
 export default function MelasmaTreatmentPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Chhani, Vadodara | Expert Skin Doctor",
-  description: "Trusted skin and hair clinic in Chhani, Vadodara. Specialized treatments for acne, hair fall, laser procedures & skin allergies. Serving Chhani Jakat Naka area.",
-  keywords: "skin clinic chhani, dermatologist chhani vadodara, hair clinic chhani jakat naka, skin specialist chhani",
+  title: "Skin & Hair Clinic in Chhani | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Chhani, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic chhani, dermatologist chhani vadodara, hair clinic chhani, skin doctor near chhani",
 };
 
 export default function ChhaniPage() {

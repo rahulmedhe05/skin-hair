@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Laser Skin Rejuvenation in Vadodara | Anti-Aging Laser",
-  description: "Laser skin rejuvenation in Vadodara. Non-surgical skin tightening, wrinkle reduction & anti-aging laser treatments.",
-  keywords: "laser skin rejuvenation vadodara, anti aging laser vadodara, skin tightening laser, laser facial rejuvenation",
+  title: "Laser Skin Rejuvenation Vadodara | Look Younger | Book",
+  description: "✨ Laser skin rejuvenation in Vadodara ✓ Look 5 years younger ✓ Tighten & brighten ✓ Reduce wrinkles ✓ No surgery. Starting ₹5,000. Book consultation!",
+  keywords: "laser skin rejuvenation vadodara, anti aging laser vadodara, skin rejuvenation cost, laser facial rejuvenation",
 };
 
 export default function LaserSkinRejuvenationPage() {

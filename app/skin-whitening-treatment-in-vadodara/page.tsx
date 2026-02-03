@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Whitening Treatment in Vadodara | Skin Brightening",
-  description: "Safe skin whitening and brightening treatment in Vadodara. Expert care for dull skin, uneven tone & skin lightening. Medically supervised protocols.",
-  keywords: "skin whitening vadodara, skin brightening treatment, skin lightening vadodara, fair skin treatment vadodara",
+  title: "Skin Whitening Treatment Vadodara | Safe & Natural | Book",
+  description: "✨ Skin whitening in Vadodara ✓ Safe, medically supervised ✓ Glutathione + peels ✓ 2-3 shades brighter ✓ No harmful chemicals. Starting ₹3,000. Book now!",
+  keywords: "skin whitening vadodara, skin brightening treatment, skin lightening vadodara, glow treatment vadodara",
 };
 
 export default function SkinWhiteningTreatmentPage() {

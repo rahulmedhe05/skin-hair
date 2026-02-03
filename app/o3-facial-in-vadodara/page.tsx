@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "O3+ Facial in Vadodara | O3+ Professional Treatment",
-  description: "O3+ facial treatment in Vadodara. Professional O3+ products for brightening, anti-aging & skin rejuvenation. Expert application techniques.",
-  keywords: "O3+ facial vadodara, O3+ treatment vadodara, O3 facial near me, O3+ brightening facial",
+  title: "O3+ Facial Vadodara ₹2,000 | Professional Glow | Book",
+  description: "✨ O3+ facial in Vadodara ₹2,000 ✓ Professional O3+ products ✓ Brightening & anti-aging ✓ Instant glow ✓ Expert application. Perfect for events. Book now!",
+  keywords: "O3+ facial vadodara, O3+ treatment vadodara, O3 facial cost vadodara, O3+ facial near me",
 };
 
 export default function O3FacialPage() {

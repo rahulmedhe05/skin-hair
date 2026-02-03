@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Cosmetologist in Vadodara | Expert Cosmetic Skin Doctor",
-  description: "Expert cosmetologist in Vadodara. Comprehensive cosmetic dermatology services for skin rejuvenation, anti-aging & aesthetic enhancement.",
-  keywords: "cosmetologist vadodara, cosmetic dermatologist vadodara, aesthetic doctor vadodara, skin cosmetic treatment",
+  title: "Best Cosmetologist Vadodara | Anti-Aging Expert | ₹500",
+  description: "✨ Best cosmetologist in Vadodara ✓ Botox, fillers, laser expert ✓ 15+ years experience ✓ Natural results ✓ 4.9★ rated. Consultation ₹500. Book now!",
+  keywords: "cosmetologist vadodara, cosmetic dermatologist vadodara, aesthetic doctor vadodara, cosmetologist near me",
 };
 
 export default function CosmetologistPage() {

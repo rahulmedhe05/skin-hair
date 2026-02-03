@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Lightening Treatment in Vadodara | Safe Lightening",
-  description: "Safe, medically supervised skin lightening treatment in Vadodara. Even skin tone, reduced pigmentation & healthy radiance without harmful chemicals.",
-  keywords: "skin lightening vadodara, skin tone treatment vadodara, even skin tone treatment, skin lightening clinic",
+  title: "Skin Lightening Vadodara | Doctor Supervised | ₹3,000",
+  description: "✨ Skin lightening in Vadodara from ₹3,000 ✓ Medical supervision ✓ Safe protocols ✓ Even skin tone ✓ No side effects ✓ Visible results. Book consultation!",
+  keywords: "skin lightening vadodara, skin tone treatment vadodara, even skin tone treatment, skin lightening cost",
 };
 
 export default function SkinLighteningTreatmentPage() {

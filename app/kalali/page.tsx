@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Kalali, Vadodara | Expert Dermatologist",
-  description: "Trusted skin and hair clinic in Kalali, Vadodara. Treatment for acne, hair loss, laser procedures & skin problems. Serving Kalali & surrounding villages.",
-  keywords: "skin clinic kalali, dermatologist kalali vadodara, hair specialist kalali, skin doctor kalali village",
+  title: "Skin & Hair Clinic in Kalali | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Kalali, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic kalali, dermatologist kalali vadodara, hair clinic kalali, skin doctor near kalali",
 };
 
 export default function KalaliPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Panigate, Vadodara | Best Dermatologist",
-  description: "Expert skin and hair clinic in Panigate, Vadodara. Treatment for acne, hair fall, skin problems & dermatological conditions. Serving Panigate & walled city.",
-  keywords: "skin clinic panigate, dermatologist panigate vadodara, hair specialist panigate, skin doctor panigate",
+  title: "Skin & Hair Clinic in Panigate | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Panigate, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic panigate, dermatologist panigate vadodara, hair clinic panigate, skin doctor near panigate",
 };
 
 export default function PanigatePage() {

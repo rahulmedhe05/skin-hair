@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Botox Injection in Vadodara | Certified Botox Doctor",
-  description: "Professional Botox injection in Vadodara. Certified doctors, US FDA approved Botox for safe & effective wrinkle treatment.",
-  keywords: "botox injection vadodara, botox doctor vadodara, botox specialist vadodara, botox for wrinkles",
+  title: "Botox Injection Vadodara ₹8,000 | US FDA Approved | Book",
+  description: "✨ Botox injection in Vadodara from ₹8,000 ✓ US FDA approved ✓ Certified injectors ✓ Natural results ✓ Wrinkle-free in 3 days. Expert care. Book now!",
+  keywords: "botox injection vadodara, botox doctor vadodara, botox injection cost vadodara, botox near me",
 };
 
 export default function BotoxInjectionPage() {

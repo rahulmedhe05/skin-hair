@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Karelibaug, Vadodara | Trusted Dermatologists",
-  description: "Best skin and hair clinic in Karelibaug, Vadodara. Expert treatment for hair loss, acne, skin allergies & cosmetic procedures. Serving Karelibaug for 15+ years.",
-  keywords: "skin clinic karelibaug, dermatologist karelibaug vadodara, hair specialist karelibaug, skin doctor karelibaug",
+  title: "Skin & Hair Clinic in Karelibaug | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Karelibaug, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic karelibaug, dermatologist karelibaug vadodara, hair clinic karelibaug, skin doctor near karelibaug",
 };
 
 export default function KarelibaugPage() {

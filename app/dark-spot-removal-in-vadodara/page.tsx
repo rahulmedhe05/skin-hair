@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Dark Spot Removal in Vadodara | Remove Dark Spots",
-  description: "Professional dark spot removal in Vadodara. Laser & chemical treatments for spotless, clear skin. Remove sun spots, age spots & blemishes.",
-  keywords: "dark spot removal vadodara, remove dark spots vadodara, dark spots treatment, spot removal treatment",
+  title: "Dark Spot Removal Vadodara | Quick Results | ₹2,000",
+  description: "✅ Dark spot removal in Vadodara from ₹2,000 ✓ Laser & chemical peels ✓ Quick results ✓ All spot types ✓ Spotless skin guaranteed. Book consultation now!",
+  keywords: "dark spot removal vadodara, remove dark spots vadodara, spot removal cost vadodara, dark spot treatment",
 };
 
 export default function DarkSpotRemovalPage() {

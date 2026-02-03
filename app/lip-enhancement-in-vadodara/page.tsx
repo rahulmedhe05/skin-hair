@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Lip Enhancement in Vadodara | Lip Fillers & Augmentation",
-  description: "Professional lip enhancement in Vadodara. Natural lip fillers for fuller, shapely lips. Subtle augmentation to dramatic results as per your preference.",
-  keywords: "lip fillers vadodara, lip enhancement vadodara, lip augmentation vadodara, fuller lips treatment",
+  title: "Lip Enhancement Vadodara ₹15,000 | Fuller Lips | Book",
+  description: "💋 Lip enhancement in Vadodara ₹15,000 ✓ Natural-looking fuller lips ✓ Hyaluronic fillers ✓ Lasts 8-12 months ✓ Expert injectors. Book consultation today!",
+  keywords: "lip enhancement vadodara, lip fillers vadodara, lip augmentation cost vadodara, fuller lips near me",
 };
 
 export default function LipEnhancementPage() {

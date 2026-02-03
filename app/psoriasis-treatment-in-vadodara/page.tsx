@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Psoriasis Treatment in Vadodara | Psoriasis Specialist",
-  description: "Expert psoriasis treatment in Vadodara. Comprehensive care for plaque psoriasis, scalp psoriasis & psoriatic arthritis. Advanced biologics available.",
-  keywords: "psoriasis treatment vadodara, psoriasis specialist vadodara, plaque psoriasis treatment, scalp psoriasis vadodara",
+  title: "Psoriasis Treatment Vadodara | 80% Control | ₹500",
+  description: "✅ Psoriasis treatment in Vadodara ✓ 80% achieve remission ✓ Biologics available ✓ Scalp psoriasis expert ✓ Long-term control. Consultation ₹500. Book now!",
+  keywords: "psoriasis treatment vadodara, psoriasis specialist vadodara, plaque psoriasis treatment, psoriasis doctor near me",
 };
 
 export default function PsoriasisTreatmentPage() {

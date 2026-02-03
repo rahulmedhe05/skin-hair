@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Navapura, Vadodara | Expert Skin Doctor",
-  description: "Trusted skin and hair clinic in Navapura, Vadodara. Treatment for acne, hair fall, skin allergies & all skin conditions. Serving Navapura & old city area.",
-  keywords: "skin clinic navapura, dermatologist navapura vadodara, hair specialist navapura, skin doctor navapura",
+  title: "Skin & Hair Clinic in Navapura | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Navapura, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic navapura, dermatologist navapura vadodara, hair clinic navapura, skin doctor near navapura",
 };
 
 export default function NavapuraPage() {

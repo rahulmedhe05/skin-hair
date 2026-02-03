@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Dermal Fillers in Vadodara | Lip Filler & Face Filler",
-  description: "Professional dermal filler treatment in Vadodara. Lip fillers, cheek fillers, under-eye fillers & facial contouring by experienced cosmetic dermatologist.",
-  keywords: "dermal fillers vadodara, lip filler vadodara, cheek filler vadodara, face filler treatment vadodara",
+  title: "Dermal Fillers Vadodara ₹12,000 | Instant Volume | Book",
+  description: "✨ Dermal fillers in Vadodara from ₹12,000 ✓ US FDA approved ✓ Instant results ✓ Natural look ✓ Expert injectors. Lips, cheeks, jawline. Book consultation!",
+  keywords: "dermal fillers vadodara, lip filler vadodara, cheek filler vadodara, filler cost vadodara",
 };
 
 export default function DermalFillersPage() {

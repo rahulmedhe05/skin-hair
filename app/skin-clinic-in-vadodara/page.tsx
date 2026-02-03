@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Skin Clinic in Vadodara | Complete Dermatology Services",
-  description: "Top skin clinic in Vadodara offering complete dermatology services. Advanced facilities for acne, hair loss, laser treatments & cosmetic procedures.",
-  keywords: "skin clinic vadodara, best skin clinic vadodara, dermatology clinic vadodara, skin care clinic",
+  title: "Best Skin Clinic Vadodara | Advanced Tech | ₹500",
+  description: "🏆 Best skin clinic in Vadodara ✓ US FDA approved lasers ✓ MD dermatologists ✓ All skin & hair treatments ✓ 4.9★ rated. Consultation ₹500. Visit today!",
+  keywords: "skin clinic vadodara, best skin clinic vadodara, dermatology clinic vadodara, skin clinic near me",
 };
 
 export default function SkinClinicPage() {

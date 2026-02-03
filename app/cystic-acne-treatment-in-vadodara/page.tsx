@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Cystic Acne Treatment in Vadodara | Severe Acne Specialist",
-  description: "Specialized cystic acne treatment in Vadodara. Expert dermatologist for painful nodular acne, deep cystic pimples & severe inflammatory acne.",
-  keywords: "cystic acne treatment vadodara, nodular acne treatment, severe acne specialist vadodara, deep pimple treatment",
+  title: "Cystic Acne Treatment Vadodara | Severe Acne | ₹500",
+  description: "✅ Cystic acne treatment in Vadodara ✓ Isotretinoin available ✓ Deep, painful acne cleared ✓ Prevent scarring ✓ Expert dermatologist. Consult ₹500. Book!",
+  keywords: "cystic acne treatment vadodara, nodular acne treatment, severe acne doctor vadodara, cystic acne near me",
 };
 
 export default function CysticAcneTreatmentPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Hair Clinic in Vadodara | Hair Fall & Hair Transplant",
-  description: "Leading hair clinic in Vadodara. Expert treatment for hair fall, hair loss, hair transplant & all hair problems. Advanced PRP, GFC & restoration therapies.",
-  keywords: "hair clinic vadodara, best hair clinic vadodara, hair loss clinic vadodara, hair transplant clinic",
+  title: "Best Hair Clinic Vadodara | PRP, GFC, Transplant | ₹500",
+  description: "💇 Best hair clinic in Vadodara ✓ PRP, GFC, transplant available ✓ Advanced diagnosis ✓ 8,000+ patients treated ✓ 4.9★ rated. Consult ₹500. Visit today!",
+  keywords: "hair clinic vadodara, best hair clinic vadodara, hair loss clinic vadodara, hair clinic near me",
 };
 
 export default function HairClinicPage() {

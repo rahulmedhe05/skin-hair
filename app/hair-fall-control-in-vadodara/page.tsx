@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Fall Control in Vadodara | Stop Hair Fall",
-  description: "Effective hair fall control in Vadodara. Stop hair fall permanently with expert diagnosis and treatment.",
-  keywords: "hair fall control vadodara, stop hair fall vadodara, control hair loss, reduce hair fall",
+  title: "Hair Fall Control Vadodara | 70% Reduction | ₹500",
+  description: "💇 Hair fall control in Vadodara ✓ 70% reduction in 3 months ✓ Root cause treatment ✓ PRP available ✓ Stop hair fall permanently. Consult ₹500. Book now!",
+  keywords: "hair fall control vadodara, stop hair fall vadodara, control hair loss, hair fall near me",
 };
 
 export default function HairFallControlPage() {

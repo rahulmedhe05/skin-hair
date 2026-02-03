@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Patch in Vadodara | Non-Surgical Hair Replacement",
-  description: "Natural looking hair patch services in Vadodara. Non-surgical hair replacement solutions for men & women. Instant hair coverage.",
-  keywords: "hair patch vadodara, hair replacement vadodara, non surgical hair replacement, hair system vadodara",
+  title: "Hair Patch Vadodara ₹15,000 | Natural Look | Book Now",
+  description: "💇 Hair patch in Vadodara from ₹15,000 ✓ 100% natural look ✓ Non-surgical solution ✓ Instant full head ✓ Undetectable. For men & women. Book consultation!",
+  keywords: "hair patch vadodara, hair replacement vadodara, non surgical hair cost, hair patch near me",
 };
 
 export default function HairPatchPage() {

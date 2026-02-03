@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Akota, Vadodara | Trusted Dermatologists",
-  description: "Top-rated skin and hair clinic serving Akota, Vadodara. Expert treatment for hair fall, acne, pigmentation & more. Conveniently located near Akota Stadium.",
-  keywords: "skin clinic akota, dermatologist akota vadodara, hair specialist akota, skin doctor akota",
+  title: "Skin & Hair Clinic in Akota | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Akota, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic akota, dermatologist akota vadodara, hair clinic akota, skin doctor near akota",
 };
 
 export default function AkotaPage() {

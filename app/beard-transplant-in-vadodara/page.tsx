@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Beard Transplant in Vadodara | Facial Hair Transplant",
-  description: "Professional beard transplant in Vadodara. Restore patchy beard, create fuller facial hair & define beard shape. Natural-looking results.",
-  keywords: "beard transplant vadodara, facial hair transplant vadodara, beard hair transplant, patchy beard treatment",
+  title: "Beard Transplant Vadodara ₹40,000 | Full Beard | Book",
+  description: "🧔 Beard transplant in Vadodara from ₹40,000 ✓ Dense, natural beard ✓ FUE technique ✓ Patchy beard solution ✓ Permanent results. Free consultation. Call!",
+  keywords: "beard transplant vadodara, facial hair transplant vadodara, beard transplant cost vadodara, patchy beard treatment",
 };
 
 export default function BeardTransplantPage() {

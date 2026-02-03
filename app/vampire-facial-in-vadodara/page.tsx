@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Vampire Facial in Vadodara | PRP Microneedling Treatment",
-  description: "Professional vampire facial treatment in Vadodara. PRP combined with microneedling for ultimate skin rejuvenation. Natural regeneration.",
-  keywords: "vampire facial vadodara, prp facial vadodara, prp microneedling vadodara, platelet rich plasma facial",
+  title: "Vampire Facial Vadodara ₹6,000 | Celebrity Favorite | Book",
+  description: "✨ Vampire facial in Vadodara ₹6,000 ✓ PRP + microneedling ✓ Ultimate skin rejuvenation ✓ Natural glow ✓ Celebrity favorite treatment. Book your session now!",
+  keywords: "vampire facial vadodara, prp facial vadodara, vampire facial cost vadodara, prp microneedling",
 };
 
 export default function VampireFacialPage() {

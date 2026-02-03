@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Dandruff Treatment in Vadodara | Scalp & Dandruff Specialist",
-  description: "Effective dandruff treatment in Vadodara. Expert care for stubborn dandruff, seborrheic dermatitis & scalp problems. Permanent solutions available.",
-  keywords: "dandruff treatment vadodara, scalp treatment vadodara, dandruff specialist, seborrheic dermatitis treatment",
+  title: "Dandruff Treatment Vadodara | Permanent Cure | ₹500",
+  description: "✅ Dandruff treatment in Vadodara ✓ 90% see results in 2 weeks ✓ Stubborn dandruff cured ✓ Scalp treatment ✓ Stop itching. Consultation ₹500. Book now!",
+  keywords: "dandruff treatment vadodara, scalp treatment vadodara, dandruff cure vadodara, dandruff doctor near me",
 };
 
 export default function DandruffTreatmentPage() {

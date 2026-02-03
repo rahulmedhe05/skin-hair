@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Tandalja, Vadodara | Best Skin Doctor",
-  description: "Expert skin and hair clinic in Tandalja, Vadodara. Specialized treatment for acne, hair fall, laser procedures & skin problems. Serving Tandalja area.",
-  keywords: "skin clinic tandalja, dermatologist tandalja vadodara, hair specialist tandalja, skin doctor tandalja",
+  title: "Skin & Hair Clinic in Tandalja | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Tandalja, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic tandalja, dermatologist tandalja vadodara, hair clinic tandalja, skin doctor near tandalja",
 };
 
 export default function TandaljaPage() {

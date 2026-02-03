@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Alopecia Treatment in Vadodara | Alopecia Areata Specialist",
-  description: "Expert alopecia treatment in Vadodara. Specialized care for alopecia areata, patchy hair loss & autoimmune hair conditions. Advanced treatment options.",
-  keywords: "alopecia treatment vadodara, alopecia areata treatment, patchy hair loss treatment, autoimmune hair loss vadodara",
+  title: "Alopecia Treatment Vadodara | Patchy Hair Loss | ₹500",
+  description: "💇 Alopecia treatment in Vadodara ✓ 80% regrowth success ✓ Alopecia areata expert ✓ Steroid + PRP combo ✓ Autoimmune hair loss. Consult ₹500. Book now!",
+  keywords: "alopecia treatment vadodara, alopecia areata treatment vadodara, patchy hair loss treatment, alopecia doctor near me",
 };
 
 export default function AlopeciaTreatmentPage() {

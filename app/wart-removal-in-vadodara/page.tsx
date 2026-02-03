@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Wart Removal in Vadodara | Warts Treatment Doctor",
-  description: "Safe and effective wart removal in Vadodara. Treatment for common warts, plantar warts, genital warts & all types. Multiple removal methods available.",
-  keywords: "wart removal vadodara, warts treatment vadodara, wart doctor vadodara, plantar wart removal",
+  title: "Wart Removal Vadodara ₹800 | Same Day | Book Now",
+  description: "✅ Wart removal in Vadodara ₹800 onwards ✓ Instant removal ✓ RF cautery & cryo ✓ All wart types ✓ No recurrence guarantee. Walk-in available. Call!",
+  keywords: "wart removal vadodara, warts treatment vadodara, wart removal cost, wart removal near me",
 };
 
 export default function WartRemovalPage() {

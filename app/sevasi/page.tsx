@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Sevasi, Vadodara | Trusted Dermatologist",
-  description: "Expert skin and hair clinic in Sevasi, Vadodara. Treatment for acne, hair fall, skin problems & laser procedures. Serving Sevasi and nearby villages.",
-  keywords: "skin clinic sevasi, dermatologist sevasi vadodara, hair specialist sevasi, skin doctor sevasi",
+  title: "Skin & Hair Clinic in Sevasi | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Sevasi, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic sevasi, dermatologist sevasi vadodara, hair clinic sevasi, skin doctor near sevasi",
 };
 
 export default function SevasiPage() {

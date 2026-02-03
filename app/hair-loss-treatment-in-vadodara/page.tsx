@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Loss Treatment in Vadodara | Baldness & Thinning Hair",
-  description: "Comprehensive hair loss treatment in Vadodara. Expert solutions for male pattern baldness, female hair loss, alopecia & thinning. Medical & surgical options.",
-  keywords: "hair loss treatment vadodara, baldness treatment vadodara, hair thinning treatment, alopecia treatment vadodara",
+  title: "Hair Loss Treatment Vadodara | Stop Baldness | ₹500",
+  description: "💇 Hair loss treatment in Vadodara ✓ Stop baldness progression ✓ PRP + GFC + medicines ✓ Male & female hair loss ✓ 10,000+ treated. Consult ₹500. Book now!",
+  keywords: "hair loss treatment vadodara, baldness treatment vadodara, hair thinning treatment, hair loss doctor near me",
 };
 
 export default function HairLossTreatmentPage() {

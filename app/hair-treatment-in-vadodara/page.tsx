@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Treatment in Vadodara | Complete Hair Care Solutions",
-  description: "Complete hair treatment in Vadodara. Expert solutions for hair loss, damage, scalp issues & more. Comprehensive hair care.",
-  keywords: "hair treatment vadodara, hair care treatment vadodara, hair solutions, best hair treatment",
+  title: "Hair Treatment Vadodara | All Hair Solutions | ₹500",
+  description: "💇 Complete hair treatment in Vadodara ✓ Hair fall, dandruff, damage ✓ PRP, GFC, keratin ✓ All hair problems solved ✓ 8,000+ patients. Consult ₹500!",
+  keywords: "hair treatment vadodara, hair care treatment vadodara, best hair treatment, hair treatment near me",
 };
 
 export default function HairTreatmentPage() {

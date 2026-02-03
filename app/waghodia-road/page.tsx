@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic on Waghodia Road, Vadodara | Dermatology Experts",
-  description: "Top skin and hair clinic on Waghodia Road, Vadodara. Expert dermatologists for acne, hair fall, laser treatment & skin problems. Near University area.",
-  keywords: "skin clinic waghodia road, dermatologist waghodia road vadodara, hair specialist waghodia, skin doctor near university vadodara",
+  title: "Skin Clinic Waghodia Road | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic on Waghodia Road, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic waghodia road, dermatologist waghodia road vadodara, hair clinic waghodia road, skin doctor near waghodia road",
 };
 
 export default function WaghodiaRoadPage() {

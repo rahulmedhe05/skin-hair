@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Fatehgunj, Vadodara | Trusted Dermatologist",
-  description: "Premium skin and hair clinic in Fatehgunj, Vadodara. Expert treatment for acne, hair fall, laser hair removal & cosmetic procedures. Central Vadodara location.",
-  keywords: "skin clinic fatehgunj, dermatologist fatehgunj vadodara, hair specialist fatehgunj, skin doctor fatehgunj",
+  title: "Skin & Hair Clinic in Fatehgunj | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Fatehgunj, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic fatehgunj, dermatologist fatehgunj vadodara, hair clinic fatehgunj, skin doctor near fatehgunj",
 };
 
 export default function FatehgunjPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Vemali, Vadodara | Best Skin Doctor",
-  description: "Trusted skin and hair clinic in Vemali, Vadodara. Treatment for acne, hair fall, skin problems & dermatological conditions. Serving Vemali area.",
-  keywords: "skin clinic vemali, dermatologist vemali vadodara, hair specialist vemali, skin doctor vemali",
+  title: "Skin & Hair Clinic in Vemali | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Vemali, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic vemali, dermatologist vemali vadodara, hair clinic vemali, skin doctor near vemali",
 };
 
 export default function VemaliPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Allergy Treatment in Vadodara | Allergy Specialist",
-  description: "Expert skin allergy treatment in Vadodara. Relief from hives, rashes, contact dermatitis & allergic skin reactions. Quick diagnosis and effective treatment.",
-  keywords: "skin allergy treatment vadodara, hives treatment vadodara, allergic rash treatment, skin allergy doctor vadodara",
+  title: "Skin Allergy Treatment Vadodara | Fast Relief | ₹500",
+  description: "✅ Skin allergy treatment in Vadodara ✓ Fast relief from itching ✓ Hives & rashes treated ✓ Find your triggers ✓ Long-term prevention. Consult ₹500. Call!",
+  keywords: "skin allergy treatment vadodara, hives treatment vadodara, allergic rash treatment, skin allergy doctor near me",
 };
 
 export default function SkinAllergyTreatmentPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Tan Removal Treatment in Vadodara | Sun Tan Removal",
-  description: "Effective tan removal treatment in Vadodara. Professional de-tan facials, peels & laser for sun damage. Restore your natural skin tone quickly.",
-  keywords: "tan removal vadodara, de-tan treatment vadodara, sun tan removal, tan removal facial vadodara",
+  title: "Tan Removal Treatment Vadodara ₹1,500 | Instant Detan",
+  description: "✨ Tan removal in Vadodara from ₹1,500 ✓ Instant de-tan ✓ Restore natural skin tone ✓ Face & body ✓ Sun damage reversed. Perfect for summers. Book now!",
+  keywords: "tan removal vadodara, de-tan treatment vadodara, sun tan removal cost, tan removal near me",
 };
 
 export default function TanRemovalTreatmentPage() {

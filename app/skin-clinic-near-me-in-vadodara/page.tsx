@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Clinic Near Me in Vadodara | Local Skin Care Center",
-  description: "Find a skin clinic near you in Vadodara. Convenient location, expert dermatology services for all skin, hair & cosmetic needs. Book your appointment.",
-  keywords: "skin clinic near me vadodara, dermatology clinic vadodara, local skin doctor, skin care center vadodara",
+  title: "Skin Clinic Near Me Vadodara | Walk-In Welcome | ₹500",
+  description: "✅ Find skin clinic near you in Vadodara ✓ Convenient location ✓ Expert care ✓ All skin & hair needs ✓ Walk-in available. Consultation ₹500. Visit now!",
+  keywords: "skin clinic near me vadodara, dermatology clinic vadodara, skin doctor near me, skin clinic near me",
 };
 
 export default function SkinClinicNearMePage() {

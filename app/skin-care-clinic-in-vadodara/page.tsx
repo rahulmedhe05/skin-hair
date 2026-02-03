@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Care Clinic in Vadodara | Complete Skin Solutions",
-  description: "Advanced skin care clinic in Vadodara. Complete skin care solutions from expert dermatologists for healthy, beautiful skin.",
-  keywords: "skin care clinic vadodara, skin clinic vadodara, skin care center vadodara, dermatology skin care",
+  title: "Skin Care Clinic Vadodara | Complete Solutions | ₹500",
+  description: "✨ Skin care clinic in Vadodara ✓ Complete skin solutions ✓ Medical & cosmetic ✓ Expert dermatologists ✓ 10,000+ happy patients. Consult ₹500. Book now!",
+  keywords: "skin care clinic vadodara, skin clinic vadodara, skin care center vadodara, skin clinic near me",
 };
 
 export default function SkinCareClinicPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Botox in Vadodara | Wrinkle Reduction Treatment",
-  description: "Best Botox services in Vadodara. Expert injectors for natural-looking results. Reduce wrinkles and fine lines instantly.",
-  keywords: "botox vadodara, botox treatment vadodara, wrinkle reduction botox, botox injections vadodara",
+  title: "Botox Vadodara ₹8,000 | US FDA Approved | Book Now",
+  description: "✨ Botox in Vadodara from ₹8,000/area ✓ US FDA approved ✓ Look 10 years younger ✓ No downtime ✓ Natural results by experts. Results in 3 days. Call!",
+  keywords: "botox vadodara, botox treatment vadodara, wrinkle reduction botox, botox cost vadodara",
 };
 
 export default function BotoxPage() {

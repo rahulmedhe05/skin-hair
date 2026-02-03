@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Female Hair Loss Treatment in Vadodara | Women's Hair Specialist",
-  description: "Expert female hair loss treatment in Vadodara. Specialized care for women's hair thinning, hormonal hair loss & diffuse hair loss. Gentle, effective solutions.",
-  keywords: "female hair loss treatment vadodara, women hair loss vadodara, female pattern hair loss, women hair thinning treatment",
+  title: "Female Hair Loss Treatment Vadodara | Women's Hair | ₹500",
+  description: "👩 Female hair loss treatment in Vadodara ✓ Women's hair specialist ✓ Hormonal & diffuse hair loss ✓ Gentle treatments ✓ 8,000+ women helped. Consult ₹500!",
+  keywords: "female hair loss treatment vadodara, women hair loss vadodara, female pattern hair loss, women hair doctor",
 };
 
 export default function FemaleHairLossPage() {

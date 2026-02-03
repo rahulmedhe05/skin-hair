@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Dermatologist in Vadodara | Top Skin Specialist",
-  description: "Consult the best dermatologist in Vadodara. Expert diagnosis and treatment for all skin conditions. Trusted care for medical and cosmetic dermatology.",
-  keywords: "best dermatologist vadodara, top skin doctor vadodara, best skin specialist vadodara, dermatology expert",
+  title: "Best Dermatologist in Vadodara | Top Rated | ₹500",
+  description: "🏆 Best dermatologist in Vadodara ✓ MD certified ✓ 15+ years experience ✓ 10,000+ patients treated ✓ 4.9★ rating. Consultation ₹500. Book today!",
+  keywords: "best dermatologist vadodara, top skin doctor vadodara, best skin specialist vadodara, dermatologist near me",
 };
 
 export default function BestDermatologistPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Carbon Peel in Vadodara | Carbon Laser Facial Treatment",
-  description: "Professional carbon peel treatment in Vadodara. Instant glow, pore minimization & skin rejuvenation. Hollywood peel for special occasions.",
-  keywords: "carbon peel vadodara, carbon laser facial vadodara, hollywood peel vadodara, carbon peel treatment",
+  title: "Carbon Peel Vadodara ₹2,500 | Hollywood Glow | Book Now",
+  description: "✨ Carbon peel in Vadodara ₹2,500 ✓ Hollywood peel ✓ Instant glow ✓ Pore minimizing ✓ No downtime ✓ Perfect for events. Celebrity favorite. Book now!",
+  keywords: "carbon peel vadodara, carbon laser facial vadodara, hollywood peel vadodara, carbon peel cost",
 };
 
 export default function CarbonPeelPage() {

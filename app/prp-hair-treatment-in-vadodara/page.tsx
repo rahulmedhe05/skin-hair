@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "PRP Hair Treatment in Vadodara | Platelet Rich Plasma",
-  description: "Advanced PRP hair treatment in Vadodara. Platelet rich plasma therapy for hair loss, thinning & regrowth. Natural growth factors for hair restoration.",
-  keywords: "prp hair treatment vadodara, prp for hair loss vadodara, platelet rich plasma hair, prp therapy vadodara",
+  title: "PRP Hair Treatment Vadodara ₹5,000 | Stop Hair Fall",
+  description: "💇 PRP hair treatment in Vadodara from ₹5,000 ✓ 70% see new growth in 3 months ✓ 100% natural ✓ Painless procedure ✓ 8,000+ happy patients. Book now!",
+  keywords: "prp hair treatment vadodara, prp for hair loss vadodara, prp cost vadodara, prp therapy near me",
 };
 
 export default function PRPHairTreatmentPage() {

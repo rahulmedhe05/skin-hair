@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Growth in Vadodara | Hair Regrowth Solutions",
-  description: "Best hair growth solutions in Vadodara. Medical treatments for faster, thicker hair growth. Proven results.",
-  keywords: "hair growth vadodara, hair regrowth vadodara, grow more hair, hair growth clinic",
+  title: "Hair Growth Solutions Vadodara | Faster Growth | ₹2,000",
+  description: "💇 Hair growth solutions in Vadodara from ₹2,000 ✓ Faster, thicker growth ✓ Medical treatments ✓ PRP & GFC available ✓ Visible results. Book consultation!",
+  keywords: "hair growth vadodara, hair regrowth vadodara, hair growth treatment cost, hair growth near me",
 };
 
 export default function HairGrowthPage() {

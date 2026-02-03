@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Skin Salon in Vadodara | Premium Skin Care Services",
-  description: "Premium skin salon in Vadodara offering advanced facial treatments, skin care & beauty services. Professional care for glowing skin.",
-  keywords: "best skin salon vadodara, skin salon vadodara, facial salon vadodara, skin care salon",
+  title: "Best Skin Salon Vadodara | Premium Facials | ₹1,500",
+  description: "✨ Best skin salon in Vadodara ✓ Premium facials ✓ Advanced treatments ✓ Expert aestheticians ✓ Glowing skin guaranteed. Starting ₹1,500. Book now!",
+  keywords: "best skin salon vadodara, skin salon vadodara, facial salon vadodara, skin salon near me",
 };
 
 export default function BestSkinSalonPage() {

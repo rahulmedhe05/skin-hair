@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Makarpura, Vadodara | Expert Dermatologist",
-  description: "Best skin and hair clinic in Makarpura, Vadodara. Specialized treatment for acne, hair loss, laser procedures & industrial skin problems. Near GIDC Makarpura.",
-  keywords: "skin clinic makarpura, dermatologist makarpura vadodara, hair specialist makarpura, skin doctor makarpura gidc",
+  title: "Skin & Hair Clinic in Makarpura | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Makarpura, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic makarpura, dermatologist makarpura vadodara, hair clinic makarpura, skin doctor near makarpura",
 };
 
 export default function MakarpuraPage() {

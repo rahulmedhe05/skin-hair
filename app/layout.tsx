@@ -17,46 +17,48 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Premium Services in Vadodara | Interior, Real Estate, Solar, Healthcare & More",
+  title: {
+    default: "Best Skin & Hair Clinic in Vadodara | Expert Dermatologists | Book Now",
+    template: "%s | Skin Hair Clinic Vadodara"
+  },
   description:
-    "Your one-stop destination for premium services in Vadodara. Interior Designers, Real Estate, Solar Installation, Skin & Hair Clinic, Lawyers, Dentists, Home Automation, Security Systems, Wedding Planners & Study Abroad Consultants. Serving all areas of Vadodara.",
+    "Vadodara's #1 Skin & Hair Clinic ✓ Expert Dermatologists ✓ Hair Transplant ✓ Laser Treatment ✓ Acne & Pigmentation ✓ PRP Therapy ✓ 10,000+ Happy Patients. Call Now!",
   keywords:
-    "services Vadodara, interior designers Vadodara, real estate Vadodara, solar installation Vadodara, skin clinic Vadodara, lawyers Vadodara, dentists Vadodara, home automation Vadodara, CCTV installation Vadodara, wedding planners Vadodara, study abroad consultants Vadodara",
-  authors: [{ name: "Premium Services Vadodara" }],
-  creator: "Premium Services Vadodara",
-  publisher: "Premium Services Vadodara",
+    "skin clinic vadodara, hair clinic vadodara, dermatologist vadodara, hair transplant vadodara, laser treatment vadodara, acne treatment vadodara, hair fall treatment vadodara, skin specialist vadodara, best skin doctor vadodara",
+  authors: [{ name: "Skin & Hair Clinic Vadodara" }],
+  creator: "Skin & Hair Clinic Vadodara",
+  publisher: "Skin & Hair Clinic Vadodara",
   formatDetection: {
     email: true,
     address: true,
     telephone: true,
   },
-  metadataBase: new URL("https://yourwebsite.com"),
+  metadataBase: new URL("https://skinhairvadodara.in"),
   alternates: {
-    canonical: "https://yourwebsite.com",
+    canonical: "https://skinhairvadodara.in",
   },
   openGraph: {
-    title: "Premium Services in Vadodara | 10+ Service Categories",
+    title: "Best Skin & Hair Clinic in Vadodara | Expert Dermatologists",
     description:
-      "Your trusted partner for Interior Design, Real Estate, Solar, Healthcare, Legal Services, Home Automation, Security, Weddings & Education in Vadodara.",
-    url: "https://yourwebsite.com",
-    siteName: "Premium Services Vadodara",
+      "Transform your skin & hair at Vadodara's top-rated clinic. Advanced treatments for acne, hair loss, pigmentation & anti-aging. 10,000+ satisfied patients.",
+    url: "https://skinhairvadodara.in",
+    siteName: "Skin & Hair Clinic Vadodara",
     locale: "en_IN",
     type: "website",
     images: [
       {
-        url: "https://yourwebsite.com/og-image.jpg",
+        url: "https://skinhairvadodara.in/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Premium Services in Vadodara",
+        alt: "Best Skin & Hair Clinic in Vadodara",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Premium Services in Vadodara",
-    description: "Interior Design, Real Estate, Solar, Healthcare, Legal, Home Automation, Security, Weddings & Study Abroad in Vadodara",
-    images: ["https://yourwebsite.com/og-image.jpg"],
-    creator: "@premiumvadodara",
+    title: "Best Skin & Hair Clinic in Vadodara",
+    description: "Expert dermatologists for hair transplant, laser treatment, acne, pigmentation & anti-aging in Vadodara",
+    images: ["https://skinhairvadodara.in/og-image.jpg"],
   },
   robots: {
     index: true,
@@ -69,30 +71,17 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 5,
-  },
   icons: {
     icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
       {
         url: "/icon.svg",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/apple-icon.svg",
   },
   verification: {
-    google: "google-site-verification-code",
+    google: "googlec1b155cb6acd07f9",
   },
 }
 

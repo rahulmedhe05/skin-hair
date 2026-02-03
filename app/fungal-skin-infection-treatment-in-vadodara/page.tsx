@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Fungal Skin Infection Treatment in Vadodara | Expert Care",
-  description: "Effective fungal skin infection treatment in Vadodara. Treatment for ringworm, athlete's foot, jock itch & all fungal infections.",
-  keywords: "fungal skin infection treatment vadodara, ringworm treatment vadodara, fungal infection doctor, antifungal treatment",
+  title: "Fungal Skin Infection Treatment Vadodara | Fast Cure",
+  description: "✅ Fungal skin infection treatment in Vadodara ✓ 95% cure rate ✓ Fast relief ✓ Ringworm, jock itch ✓ Stop recurrence. Consultation ₹500. Call now!",
+  keywords: "fungal skin infection treatment vadodara, ringworm treatment vadodara, fungal infection cost, fungal infection near me",
 };
 
 export default function FungalSkinInfectionTreatmentPage() {

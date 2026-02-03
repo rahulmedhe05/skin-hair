@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Bill, Vadodara | Expert Dermatologist",
-  description: "Trusted skin and hair clinic in Bill, Vadodara. Treatment for acne, hair fall, skin allergies & all skin conditions. Serving Bill & surrounding villages.",
-  keywords: "skin clinic bill, dermatologist bill vadodara, hair specialist bill, skin doctor bill village vadodara",
+  title: "Skin & Hair Clinic in Bill | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Bill, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic bill, dermatologist bill vadodara, hair clinic bill, skin doctor near bill",
 };
 
 export default function BillPage() {

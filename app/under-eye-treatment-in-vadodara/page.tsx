@@ -5,8 +5,8 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Under Eye Treatment in Vadodara | Dark Circles & Hollows",
-  description: "Comprehensive under eye treatment in Vadodara. Expert care for dark circles, under eye hollows, bags & wrinkles. Look refreshed and youthful.",
+  title: "Under Eye Treatment Vadodara | Dark Circles | ₹3,000",
+  description: "✨ Under eye treatment in Vadodara from ₹3,000 ✓ Dark circles gone ✓ Fillers + laser ✓ Hollows filled ✓ Look refreshed instantly. Expert care. Book now!",
   keywords: "under eye treatment vadodara, dark circles treatment vadodara, under eye filler vadodara, eye bags treatment",
 };
 

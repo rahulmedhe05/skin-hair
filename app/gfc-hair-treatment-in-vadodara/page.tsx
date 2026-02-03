@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "GFC Hair Treatment in Vadodara | Growth Factor Concentrate",
-  description: "Advanced GFC hair treatment in Vadodara. Growth Factor Concentrate therapy for superior hair restoration. Next generation platelet therapy for hair loss.",
-  keywords: "gfc hair treatment vadodara, growth factor concentrate hair, gfc therapy vadodara, gfc for hair loss",
+  title: "GFC Hair Treatment Vadodara ₹8,000 | 3X Better | Book",
+  description: "💇 GFC hair treatment in Vadodara ₹8,000 ✓ 3X more growth factors than PRP ✓ Faster results ✓ Latest technology ✓ 2,000+ happy patients. Book now!",
+  keywords: "gfc hair treatment vadodara, growth factor concentrate vadodara, gfc cost vadodara, gfc vs prp",
 };
 
 export default function GFCHairTreatmentPage() {

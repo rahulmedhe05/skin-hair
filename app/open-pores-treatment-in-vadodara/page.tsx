@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Open Pores Treatment in Vadodara | Pore Minimizing Specialist",
-  description: "Effective open pores treatment in Vadodara. Minimize large pores, refine skin texture & achieve smoother skin. Multiple treatment options available.",
-  keywords: "open pores treatment vadodara, large pores treatment vadodara, pore minimizing vadodara, pore reduction treatment",
+  title: "Open Pores Treatment Vadodara | 60% Reduction | Book",
+  description: "✅ Open pores treatment in Vadodara ✓ 60% pore reduction ✓ Laser + peels combo ✓ Smoother skin in 4 sessions ✓ No downtime. Starting ₹2,000. Call now!",
+  keywords: "open pores treatment vadodara, large pores treatment vadodara, pore minimizing vadodara, open pores near me",
 };
 
 export default function OpenPoresPage() {

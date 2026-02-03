@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Manjalpur, Vadodara | Expert Dermatologists",
-  description: "Best skin and hair clinic in Manjalpur, Vadodara. Advanced treatments for hair fall, acne, laser hair removal & skin problems. Serving Manjalpur & GIDC area.",
-  keywords: "skin clinic manjalpur, dermatologist manjalpur vadodara, hair specialist manjalpur, skin doctor manjalpur",
+  title: "Skin & Hair Clinic in Manjalpur | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Manjalpur, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic manjalpur, dermatologist manjalpur vadodara, hair clinic manjalpur, skin doctor near manjalpur",
 };
 
 export default function ManjalpurPage() {

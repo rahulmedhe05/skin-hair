@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Hair Doctor in Vadodara | Hair Loss Expert",
-  description: "Consult the best hair doctor in Vadodara. Expert treatment for all hair problems - hair loss, baldness, dandruff & scalp conditions. Results-focused care.",
-  keywords: "best hair doctor vadodara, top hair specialist vadodara, hair loss expert vadodara, hair treatment specialist",
+  title: "Best Hair Doctor Vadodara | Top Rated | ₹500 Consult",
+  description: "🏆 Best hair doctor in Vadodara ✓ 4.9★ Google rating ✓ 15+ years experience ✓ PRP, GFC, transplant expert ✓ 10,000+ patients. Consultation ₹500. Book!",
+  keywords: "best hair doctor vadodara, top hair specialist vadodara, hair loss expert vadodara, best hair doctor near me",
 };
 
 export default function BestHairDoctorPage() {

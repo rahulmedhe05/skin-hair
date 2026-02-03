@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Laser Skin Resurfacing in Vadodara | Skin Rejuvenation",
-  description: "Professional laser skin resurfacing in Vadodara. Fractional CO2 & Erbium laser for scars, wrinkles, skin texture & complete skin rejuvenation.",
-  keywords: "laser skin resurfacing vadodara, fractional laser vadodara, skin resurfacing treatment, laser rejuvenation vadodara",
+  title: "Laser Skin Resurfacing Vadodara | New Skin | ₹5,000",
+  description: "✨ Laser skin resurfacing in Vadodara from ₹5,000 ✓ Fractional CO2 laser ✓ Erase scars & wrinkles ✓ New skin in 1 week ✓ Dramatic results. Book now!",
+  keywords: "laser skin resurfacing vadodara, fractional laser vadodara, co2 laser vadodara, skin resurfacing cost",
 };
 
 export default function LaserSkinResurfacingPage() {

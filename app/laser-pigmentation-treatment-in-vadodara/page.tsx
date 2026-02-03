@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Laser Pigmentation Treatment in Vadodara | Remove Dark Patches",
-  description: "Laser pigmentation treatment in Vadodara. Advanced Q-switched laser for pigmentation, melasma & dark spots removal.",
-  keywords: "laser pigmentation treatment vadodara, laser for pigmentation vadodara, q-switched laser vadodara, remove pigmentation laser",
+  title: "Laser Pigmentation Treatment Vadodara | 80% Fading | Book",
+  description: "✨ Laser pigmentation treatment in Vadodara ✓ 80% fading in 4 sessions ✓ Q-switched laser ✓ Melasma & dark spots ✓ Safe for Indian skin. Book now!",
+  keywords: "laser pigmentation treatment vadodara, laser for pigmentation vadodara, q-switched laser cost, pigmentation laser near me",
 };
 
 export default function LaserPigmentationTreatmentPage() {

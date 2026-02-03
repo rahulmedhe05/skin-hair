@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Raopura, Vadodara | Expert Dermatologist",
-  description: "Trusted skin and hair clinic in Raopura, Vadodara. Treatment for acne, hair fall, skin problems & all dermatological conditions. Serving Raopura & central Vadodara.",
-  keywords: "skin clinic raopura, dermatologist raopura vadodara, hair specialist raopura, skin doctor raopura",
+  title: "Skin & Hair Clinic in Raopura | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Raopura, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic raopura, dermatologist raopura vadodara, hair clinic raopura, skin doctor near raopura",
 };
 
 export default function RaopuraPage() {

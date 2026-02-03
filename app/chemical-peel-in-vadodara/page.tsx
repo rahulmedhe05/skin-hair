@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Chemical Peel Treatment in Vadodara | Best Skin Peel",
-  description: "Professional chemical peel treatment in Vadodara. Glycolic, salicylic, TCA & combination peels for acne, pigmentation, aging & skin rejuvenation.",
-  keywords: "chemical peel vadodara, skin peel vadodara, glycolic peel vadodara, peel treatment vadodara",
+  title: "Chemical Peel Vadodara ₹2,000 | Instant Glow | Book",
+  description: "✨ Chemical peel in Vadodara ₹2,000 onwards ✓ Glycolic, salicylic, TCA ✓ Instant brightening ✓ Treats acne & pigmentation. Safe peels by experts. Book!",
+  keywords: "chemical peel vadodara, skin peel vadodara, glycolic peel vadodara, chemical peel cost",
 };
 
 export default function ChemicalPeelPage() {

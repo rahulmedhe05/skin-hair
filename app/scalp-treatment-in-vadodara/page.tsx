@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Scalp Treatment in Vadodara | Scalp Problems & Conditions",
-  description: "Expert scalp treatment in Vadodara. Professional care for scalp psoriasis, seborrheic dermatitis, itchy scalp & all scalp conditions affecting hair.",
-  keywords: "scalp treatment vadodara, scalp problems treatment, itchy scalp treatment vadodara, scalp condition specialist",
+  title: "Scalp Treatment Vadodara | Healthy Scalp | ₹500",
+  description: "💇 Scalp treatment in Vadodara ✓ Itchy, flaky scalp fixed ✓ Psoriasis & dermatitis ✓ Healthy hair starts here ✓ Expert care. Consultation ₹500. Book now!",
+  keywords: "scalp treatment vadodara, scalp problems treatment, itchy scalp treatment, scalp doctor near me",
 };
 
 export default function ScalpTreatmentPage() {

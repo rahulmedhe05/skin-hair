@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Gotri, Vadodara | Advanced Dermatology",
-  description: "Best skin and hair clinic in Gotri, Vadodara. Expert dermatologists offering hair transplant, laser treatment, acne solutions & more. Serving Gotri & nearby areas.",
-  keywords: "skin clinic gotri, dermatologist gotri vadodara, hair clinic gotri, skin treatment gotri",
+  title: "Skin & Hair Clinic in Gotri | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Gotri, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic gotri, dermatologist gotri vadodara, hair clinic gotri, skin doctor near gotri",
 };
 
 export default function GotriPage() {

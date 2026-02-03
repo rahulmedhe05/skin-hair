@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Fall Treatment in Vadodara | Stop Hair Loss Expert",
-  description: "Effective hair fall treatment in Vadodara. Expert diagnosis & treatment for hair loss, thinning hair & baldness. PRP, medications & advanced therapies.",
-  keywords: "hair fall treatment vadodara, hair loss treatment vadodara, stop hair fall vadodara, hair thinning treatment",
+  title: "Hair Fall Treatment Vadodara | 70% Reduction | Book",
+  description: "💇 Hair fall treatment in Vadodara ✓ 70% reduction in 3 months ✓ PRP + medicines combo ✓ Root cause treatment ✓ 10,000+ patients. Starting ₹500. Call!",
+  keywords: "hair fall treatment vadodara, hair loss treatment vadodara, stop hair fall vadodara, hair fall doctor near me",
 };
 
 export default function HairFallTreatmentPage() {

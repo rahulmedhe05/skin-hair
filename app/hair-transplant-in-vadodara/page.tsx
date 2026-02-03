@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Transplant in Vadodara | FUE Hair Transplant Cost",
-  description: "Expert hair transplant in Vadodara. FUE hair transplantation for permanent baldness solution. Natural results by experienced transplant surgeons.",
-  keywords: "hair transplant vadodara, fue hair transplant vadodara, hair transplant cost vadodara, hair restoration surgery",
+  title: "Hair Transplant Vadodara ₹35,000 | Natural Results | Book",
+  description: "💇 FUE hair transplant in Vadodara from ₹35,000 ✓ 95% graft survival ✓ No scars ✓ 5,000+ successful transplants ✓ Natural hairline. Free consultation!",
+  keywords: "hair transplant vadodara, fue hair transplant vadodara, hair transplant cost vadodara, best hair transplant near me",
 };
 
 export default function HairTransplantPage() {

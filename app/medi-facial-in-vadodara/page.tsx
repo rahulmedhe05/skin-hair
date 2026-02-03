@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Medi Facial in Vadodara | Medical Facial Treatment",
-  description: "Professional medi facial treatment in Vadodara. Clinical-grade facials for acne, aging, pigmentation. Dermatologist-supervised medical facials.",
-  keywords: "medi facial vadodara, medical facial vadodara, clinical facial vadodara, dermatology facial",
+  title: "Medi Facial Vadodara ₹2,500 | Clinical Results | Book",
+  description: "✨ Medi facial in Vadodara ₹2,500 ✓ Dermatologist-supervised ✓ Medical-grade products ✓ Customized for your skin. Better than salon facials. Book now!",
+  keywords: "medi facial vadodara, medical facial vadodara, clinical facial vadodara, medi facial cost",
 };
 
 export default function MediFacialPage() {

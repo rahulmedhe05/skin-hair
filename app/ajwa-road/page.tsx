@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic on Ajwa Road, Vadodara | Best Dermatologist",
-  description: "Expert skin and hair clinic on Ajwa Road, Vadodara. Specialized treatment for acne, hair loss, laser procedures & skin problems. Near Ajwa Fun World.",
-  keywords: "skin clinic ajwa road, dermatologist ajwa road vadodara, hair specialist ajwa, skin doctor ajwa road",
+  title: "Skin & Hair Clinic Ajwa Road | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic on Ajwa Road, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic ajwa road, dermatologist ajwa road vadodara, hair clinic ajwa road, skin doctor near ajwa road",
 };
 
 export default function AjwaRoadPage() {

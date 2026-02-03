@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Gorwa, Vadodara | Expert Skin Doctor",
-  description: "Trusted skin and hair clinic in Gorwa, Vadodara. Specialized treatment for acne, hair fall, skin problems & laser procedures. Near GSFC & Refinery area.",
-  keywords: "skin clinic gorwa, dermatologist gorwa vadodara, hair specialist gorwa, skin doctor gorwa gsfc",
+  title: "Skin & Hair Clinic in Gorwa | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Gorwa, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic gorwa, dermatologist gorwa vadodara, hair clinic gorwa, skin doctor near gorwa",
 };
 
 export default function GorwaPage() {

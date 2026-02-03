@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Harni, Vadodara | Top Dermatologist",
-  description: "Best skin and hair clinic in Harni, Vadodara. Expert treatment for hair loss, acne, laser hair removal & skin conditions. Near Harni Airport area.",
-  keywords: "skin clinic harni, dermatologist harni vadodara, hair specialist harni, skin doctor harni airport road",
+  title: "Skin & Hair Clinic in Harni | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Harni, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic harni, dermatologist harni vadodara, hair clinic harni, skin doctor near harni",
 };
 
 export default function HarniPage() {

@@ -5,8 +5,8 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Brightening Treatment in Vadodara | Glowing Skin",
-  description: "Advanced skin brightening treatment in Vadodara. Get radiant, glowing & brighter skin naturally with expert treatments.",
+  title: "Skin Brightening Vadodara ₹2,500 | Instant Glow | Book",
+  description: "✨ Skin brightening in Vadodara from ₹2,500 ✓ Instant radiance ✓ Dull skin transformed ✓ Safe treatments ✓ Lasting glow. Look fresh & vibrant. Book now!",
   keywords: "skin brightening vadodara, skin glow treatment vadodara, radiant skin treatment, glowing skin vadodara",
 };
 

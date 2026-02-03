@@ -9,23 +9,29 @@ import { Phone, ArrowRight, MapPin, Star, Users, Award, CheckCircle, Sparkles, H
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Best Skin & Hair Clinic in Vadodara | Dermatologist & Hair Treatment",
+  title: "Best Skin & Hair Clinic in Vadodara | #1 Dermatologist | Book Now ₹500",
   description:
-    "Leading Skin & Hair Clinic in Vadodara. Expert dermatologists for acne treatment, hair fall treatment, hair transplant, laser hair removal, skin whitening, PRP therapy & more. Book your consultation today!",
+    "🏆 Vadodara's Top Rated Skin & Hair Clinic ✓ 10,000+ Happy Patients ✓ Hair Transplant from ₹35,000 ✓ Laser Hair Removal ✓ Acne Treatment ✓ PRP/GFC ✓ Free Consultation. Call Now!",
   keywords: [
-    "Skin Clinic Vadodara",
-    "Hair Clinic Vadodara",
-    "Dermatologist Vadodara",
-    "Hair Fall Treatment Vadodara",
-    "Hair Transplant Vadodara",
-    "Acne Treatment Vadodara",
-    "Laser Hair Removal Vadodara",
-    "Skin Whitening Vadodara",
-    "PRP Therapy Vadodara",
-    "Best Skin Doctor Vadodara",
-    "Skin Specialist Vadodara",
-    "Hair Loss Treatment Vadodara",
+    "best skin clinic vadodara",
+    "hair clinic vadodara",
+    "dermatologist vadodara",
+    "hair fall treatment vadodara",
+    "hair transplant vadodara cost",
+    "acne treatment vadodara",
+    "laser hair removal vadodara price",
+    "skin whitening vadodara",
+    "PRP therapy vadodara",
+    "best skin doctor vadodara",
+    "skin specialist near me vadodara",
+    "hair loss treatment vadodara",
+    "pigmentation treatment vadodara",
+    "botox vadodara",
   ],
+  openGraph: {
+    title: "Best Skin & Hair Clinic in Vadodara | Trusted by 10,000+ Patients",
+    description: "Transform your skin & hair! Expert dermatologists, US FDA approved treatments, affordable prices. Hair Transplant, Laser, Acne, Anti-Aging & more.",
+  },
 };
 
 const skinHairBusiness = businesses[0]; // Since we only have skin-hair now

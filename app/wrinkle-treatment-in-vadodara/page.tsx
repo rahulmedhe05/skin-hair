@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Wrinkle Treatment in Vadodara | Anti-Wrinkle Solutions",
-  description: "Effective wrinkle treatment in Vadodara. Botox, fillers & laser for smooth, wrinkle-free skin. Look younger naturally.",
-  keywords: "wrinkle treatment vadodara, anti wrinkle treatment vadodara, reduce wrinkles vadodara, wrinkle removal",
+  title: "Wrinkle Treatment Vadodara | Look 10 Years Younger | Book",
+  description: "✨ Wrinkle treatment in Vadodara ✓ Botox + fillers + laser ✓ Look 10 years younger ✓ Natural results ✓ No surgery. Starting ₹8,000. Book consultation!",
+  keywords: "wrinkle treatment vadodara, anti wrinkle treatment vadodara, wrinkle removal cost, wrinkle treatment near me",
 };
 
 export default function WrinkleTreatmentPage() {

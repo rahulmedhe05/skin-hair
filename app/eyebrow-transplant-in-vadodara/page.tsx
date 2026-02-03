@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Eyebrow Transplant in Vadodara | Eyebrow Hair Restoration",
-  description: "Expert eyebrow transplant in Vadodara. Restore thin eyebrows, reshape brows & create fuller natural-looking eyebrows permanently.",
-  keywords: "eyebrow transplant vadodara, eyebrow restoration vadodara, thin eyebrows treatment, eyebrow hair transplant",
+  title: "Eyebrow Transplant Vadodara ₹30,000 | Natural Brows | Book",
+  description: "✨ Eyebrow transplant in Vadodara from ₹30,000 ✓ Natural-looking brows ✓ Permanent solution ✓ Thin eyebrows fixed ✓ Expert surgeons. Free consultation!",
+  keywords: "eyebrow transplant vadodara, eyebrow restoration vadodara, eyebrow transplant cost, thin eyebrows treatment",
 };
 
 export default function EyebrowTransplantPage() {

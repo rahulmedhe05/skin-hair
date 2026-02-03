@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Laser Skin Treatment in Vadodara | Advanced Laser Therapy",
-  description: "Advanced laser skin treatment in Vadodara. US FDA approved lasers for pigmentation, scars, hair removal & skin rejuvenation.",
-  keywords: "laser skin treatment vadodara, laser therapy vadodara, skin laser treatment, laser dermatology vadodara",
+  title: "Laser Skin Treatment Vadodara | US FDA Approved | Book",
+  description: "✨ Laser skin treatment in Vadodara ✓ US FDA approved lasers ✓ Pigmentation, scars, rejuvenation ✓ Safe for Indian skin ✓ Expert dermatologists. Book now!",
+  keywords: "laser skin treatment vadodara, laser therapy vadodara, skin laser treatment cost, laser treatment near me",
 };
 
 export default function LaserSkinTreatmentPage() {

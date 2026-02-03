@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Tarsali, Vadodara | Expert Skin Doctor",
-  description: "Best skin and hair clinic in Tarsali, Vadodara. Advanced treatments for acne, hair fall, laser procedures & all skin conditions. Near Tarsali Ring Road.",
-  keywords: "skin clinic tarsali, dermatologist tarsali vadodara, hair clinic tarsali, skin specialist tarsali ring road",
+  title: "Skin & Hair Clinic in Tarsali | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Tarsali, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic tarsali, dermatologist tarsali vadodara, hair clinic tarsali, skin doctor near tarsali",
 };
 
 export default function TarsaliPage() {

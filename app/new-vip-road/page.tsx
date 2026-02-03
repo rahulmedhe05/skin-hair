@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic on New VIP Road, Vadodara | Top Dermatologist",
-  description: "Premium skin and hair clinic on New VIP Road, Vadodara. Advanced treatments for hair transplant, laser, anti-aging & cosmetic dermatology. VIP Road area.",
-  keywords: "skin clinic new vip road, dermatologist vip road vadodara, hair specialist vip road, skin doctor new vip road",
+  title: "Skin Clinic New VIP Road | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic on New VIP Road, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic new vip road, dermatologist new vip road vadodara, hair clinic new vip road, skin doctor near new vip road",
 };
 
 export default function NewVIPRoadPage() {

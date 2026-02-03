@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Pimple Treatment in Vadodara | Best Pimple Doctor & Care",
-  description: "Effective pimple treatment in Vadodara. Expert care for recurring pimples, whiteheads, blackheads & breakouts. Professional dermatological solutions.",
-  keywords: "pimple treatment vadodara, pimple doctor vadodara, pimple specialist vadodara, remove pimples vadodara",
+  title: "Pimple Treatment Vadodara | Clear Skin in 4 Weeks | Book",
+  description: "✅ Pimple treatment in Vadodara ✓ 90% see clear skin in 4 weeks ✓ All pimple types ✓ Stop breakouts ✓ Expert dermatologists. Consultation ₹500. Call now!",
+  keywords: "pimple treatment vadodara, pimple doctor vadodara, pimple cure vadodara, pimple treatment near me",
 };
 
 export default function PimpleTreatmentPage() {

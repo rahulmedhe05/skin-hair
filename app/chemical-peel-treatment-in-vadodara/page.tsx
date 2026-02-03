@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Chemical Peel Treatment in Vadodara | Skin Rejuvenation",
-  description: "Professional chemical peel treatment in Vadodara. Skin rejuvenation, pigmentation removal & anti-aging with various peel options.",
-  keywords: "chemical peel treatment vadodara, skin peel vadodara, chemical peel facial, skin rejuvenation peel",
+  title: "Chemical Peel Treatment Vadodara ₹2,000 | Rejuvenate",
+  description: "✨ Chemical peel treatment in Vadodara from ₹2,000 ✓ Skin rejuvenation ✓ Pigmentation & anti-aging ✓ Multiple peel options ✓ Expert care. Book now!",
+  keywords: "chemical peel treatment vadodara, skin peel vadodara, chemical peel cost vadodara, skin peel near me",
 };
 
 export default function ChemicalPeelTreatmentPage() {

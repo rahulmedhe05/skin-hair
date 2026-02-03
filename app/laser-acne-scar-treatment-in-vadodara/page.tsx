@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Laser Acne Scar Treatment in Vadodara | Scar Removal",
-  description: "Laser acne scar treatment in Vadodara. Fractional CO2 laser for deep acne scars, pockmarks & uneven skin texture.",
-  keywords: "laser acne scar treatment vadodara, acne scar laser vadodara, fractional laser vadodara, acne pockmarks treatment",
+  title: "Laser Acne Scar Treatment Vadodara | 70% Improvement",
+  description: "✨ Laser acne scar treatment in Vadodara ✓ 70% scar improvement ✓ Fractional CO2 ✓ Deep scars treated ✓ Smooth skin. Starting ₹5,000. Book consultation!",
+  keywords: "laser acne scar treatment vadodara, acne scar laser vadodara, fractional laser cost, acne scar removal laser",
 };
 
 export default function LaserAcneScarTreatmentPage() {

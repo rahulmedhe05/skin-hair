@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Fine Lines Treatment in Vadodara | Early Wrinkle Care",
-  description: "Fine lines treatment in Vadodara. Advanced treatments to reduce fine lines, crow's feet & early aging signs for smoother skin.",
-  keywords: "fine lines treatment vadodara, crow's feet treatment vadodara, early wrinkle treatment, fine wrinkles vadodara",
+  title: "Fine Lines Treatment Vadodara | Prevent Aging | ₹5,000",
+  description: "✨ Fine lines treatment in Vadodara from ₹5,000 ✓ Preventive Botox ✓ Stop lines early ✓ Smooth skin ✓ Natural results. Best for 25-35 age. Book now!",
+  keywords: "fine lines treatment vadodara, crow's feet treatment vadodara, early wrinkle treatment, fine lines cost vadodara",
 };
 
 export default function FineLinesTreatmentPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Botox Hair Treatment in Vadodara | Hair Botox",
-  description: "Botox hair treatment in Vadodara. Deep conditioning treatment for smooth, shiny & frizz-free hair without chemicals.",
-  keywords: "botox hair treatment vadodara, hair botox vadodara, hair smoothing treatment, frizzy hair treatment",
+  title: "Hair Botox Vadodara ₹4,000 | Silky Smooth Hair | Book",
+  description: "💇 Hair botox in Vadodara ₹4,000 ✓ Silky smooth hair ✓ Frizz-free for 3 months ✓ Deep conditioning ✓ No formaldehyde. Damaged hair repaired. Book now!",
+  keywords: "botox hair treatment vadodara, hair botox vadodara, hair botox cost vadodara, hair smoothing near me",
 };
 
 export default function BotoxHairTreatmentPage() {

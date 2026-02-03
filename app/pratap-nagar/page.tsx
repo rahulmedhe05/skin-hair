@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Pratap Nagar, Vadodara | Best Dermatologist",
-  description: "Expert skin and hair clinic in Pratap Nagar, Vadodara. Specialized treatment for acne, hair fall, laser procedures & skin problems. Near Pratap Nagar Circle.",
-  keywords: "skin clinic pratap nagar, dermatologist pratap nagar vadodara, hair specialist pratap nagar, skin doctor pratap nagar",
+  title: "Skin Clinic Pratap Nagar | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Pratap Nagar, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic pratap nagar, dermatologist pratap nagar vadodara, hair clinic pratap nagar, skin doctor near pratap nagar",
 };
 
 export default function PratapNagarPage() {

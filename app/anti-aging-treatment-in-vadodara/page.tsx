@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Anti-Aging Treatment in Vadodara | Skin Rejuvenation",
-  description: "Comprehensive anti-aging treatment in Vadodara. Combat wrinkles, sagging, volume loss & skin aging. Botox, fillers, laser & advanced technologies.",
-  keywords: "anti aging treatment vadodara, wrinkle treatment vadodara, skin rejuvenation vadodara, anti wrinkle vadodara",
+  title: "Anti-Aging Treatment Vadodara | Look Younger | ₹5,000",
+  description: "✨ Anti-aging treatment in Vadodara from ₹5,000 ✓ Botox, fillers, laser ✓ Turn back the clock ✓ No surgery ✓ Natural results. Expert care. Book today!",
+  keywords: "anti aging treatment vadodara, anti wrinkle treatment vadodara, skin rejuvenation vadodara, anti aging near me",
 };
 
 export default function AntiAgingTreatmentPage() {

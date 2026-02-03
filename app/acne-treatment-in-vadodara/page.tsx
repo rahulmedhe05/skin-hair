@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Acne Treatment in Vadodara | Best Acne Doctor & Specialist",
-  description: "Effective acne treatment in Vadodara. Expert dermatologist for teenage acne, adult acne, cystic acne & hormonal acne. Clear skin with proven methods.",
-  keywords: "acne treatment vadodara, acne specialist vadodara, pimple treatment vadodara, acne doctor vadodara",
+  title: "Acne Treatment in Vadodara | Clear Skin ₹500 | Book Now",
+  description: "✅ Acne treatment in Vadodara by MD dermatologists ✓ 90% see results in 4 weeks ✓ All acne types treated ✓ 10,000+ happy patients. Consult ₹500. Call now!",
+  keywords: "acne treatment vadodara, acne specialist vadodara, pimple treatment vadodara, acne doctor vadodara, best acne treatment near me",
 };
 
 export default function AcneTreatmentPage() {

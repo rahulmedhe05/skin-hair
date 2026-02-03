@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Stretch Mark Treatment in Vadodara | Stretch Mark Removal",
-  description: "Advanced stretch mark treatment in Vadodara. Reduce appearance of stretch marks from pregnancy, weight changes & growth. Multiple treatment options.",
-  keywords: "stretch mark treatment vadodara, stretch mark removal vadodara, striae treatment, pregnancy stretch marks",
+  title: "Stretch Mark Treatment Vadodara | 60% Fading | Book",
+  description: "✅ Stretch mark treatment in Vadodara ✓ 60% fading guaranteed ✓ Laser + microneedling ✓ Pregnancy & weight loss marks ✓ Safe treatment. Starting ₹3,000!",
+  keywords: "stretch mark treatment vadodara, stretch mark removal vadodara, stretch marks cost vadodara, stretch marks near me",
 };
 
 export default function StretchMarkPage() {

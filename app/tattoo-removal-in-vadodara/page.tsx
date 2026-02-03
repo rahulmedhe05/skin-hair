@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Tattoo Removal in Vadodara | Laser Tattoo Removal",
-  description: "Professional laser tattoo removal in Vadodara. Safe removal of unwanted tattoos with Q-switched laser technology. All colors, all sizes treated.",
-  keywords: "tattoo removal vadodara, laser tattoo removal vadodara, remove tattoo vadodara, tattoo removal clinic",
+  title: "Tattoo Removal Vadodara ₹3,000 | Q-Switch Laser | Book",
+  description: "✅ Laser tattoo removal in Vadodara ₹3,000/session ✓ Q-switched laser ✓ All colors removed ✓ Safe & effective ✓ 90% fading. Free consultation. Call!",
+  keywords: "tattoo removal vadodara, laser tattoo removal vadodara, tattoo removal cost vadodara, remove tattoo near me",
 };
 
 export default function TattooRemovalPage() {

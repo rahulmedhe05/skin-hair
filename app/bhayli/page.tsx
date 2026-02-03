@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Bhayli, Vadodara | Expert Dermatologist",
-  description: "Premium skin and hair clinic in Bhayli, Vadodara. Advanced treatments for acne, hair loss, laser procedures & cosmetic dermatology. Near Bhayli Circle.",
-  keywords: "skin clinic bhayli, dermatologist bhayli vadodara, hair specialist bhayli, skin doctor bhayli circle",
+  title: "Skin & Hair Clinic in Bhayli | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Bhayli, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic bhayli, dermatologist bhayli vadodara, hair clinic bhayli, skin doctor near bhayli",
 };
 
 export default function BhayliPage() {

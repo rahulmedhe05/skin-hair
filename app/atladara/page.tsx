@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Atladara, Vadodara | Best Dermatologist",
-  description: "Expert skin and hair clinic in Atladara, Vadodara. Specialized treatment for acne, hair fall, skin problems & cosmetic procedures. Serving Atladara area.",
-  keywords: "skin clinic atladara, dermatologist atladara vadodara, hair specialist atladara, skin doctor atladara",
+  title: "Skin & Hair Clinic in Atladara | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Atladara, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic atladara, dermatologist atladara vadodara, hair clinic atladara, skin doctor near atladara",
 };
 
 export default function AtladaraPage() {

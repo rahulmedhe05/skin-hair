@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Rashes Treatment in Vadodara | Skin Rash Specialist",
-  description: "Expert treatment for skin rashes in Vadodara. Quick diagnosis and relief for all types of skin rashes. Identify causes, effective treatment.",
-  keywords: "rashes treatment vadodara, skin rash doctor vadodara, rash treatment, skin irritation treatment",
+  title: "Rashes Treatment Vadodara | Fast Relief | ₹500 Consult",
+  description: "✅ Rashes treatment in Vadodara ✓ Fast relief from itching ✓ All rash types diagnosed ✓ Stop recurrence ✓ Expert dermatologist. Consultation ₹500. Call!",
+  keywords: "rashes treatment vadodara, skin rash doctor vadodara, rash treatment cost, rash treatment near me",
 };
 
 export default function RashesTreatmentPage() {

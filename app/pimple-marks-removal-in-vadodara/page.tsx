@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Pimple Marks Removal in Vadodara | Dark Spot Treatment",
-  description: "Effective pimple marks removal in Vadodara. Expert treatment for dark spots, post-acne hyperpigmentation & red marks. Clear, even-toned skin guaranteed.",
-  keywords: "pimple marks removal vadodara, dark spot treatment vadodara, post acne marks vadodara, spot removal vadodara",
+  title: "Pimple Marks Removal Vadodara | 70% Fading | Book Now",
+  description: "✅ Pimple marks removal in Vadodara ✓ 70% fading in 4 sessions ✓ Laser + peels combo ✓ Dark spots gone ✓ Even skin tone. Starting ₹2,000. Book now!",
+  keywords: "pimple marks removal vadodara, dark spot treatment vadodara, post acne marks, pimple marks cost",
 };
 
 export default function PimpleMarksRemovalPage() {

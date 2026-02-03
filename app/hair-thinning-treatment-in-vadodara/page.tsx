@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Thinning Treatment in Vadodara | Restore Hair Density",
-  description: "Hair thinning treatment in Vadodara. Expert solutions to stop thinning and restore hair volume and density.",
-  keywords: "hair thinning treatment vadodara, thinning hair solutions vadodara, restore hair density, thick hair treatment",
+  title: "Hair Thinning Treatment Vadodara | Get Density | ₹2,000",
+  description: "💇 Hair thinning treatment in Vadodara from ₹2,000 ✓ Restore density ✓ PRP + medicines ✓ Stop thinning ✓ Thicker hair in 3 months. Book consultation now!",
+  keywords: "hair thinning treatment vadodara, thinning hair solutions, restore hair density vadodara, thin hair near me",
 };
 
 export default function HairThinningTreatmentPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Chemical Face Peel in Vadodara | Facial Peel Treatment",
-  description: "Professional chemical face peel in Vadodara. Safe & effective skin peeling for radiant complexion, pigmentation & acne marks.",
-  keywords: "chemical face peel vadodara, facial peel vadodara, face peel treatment, skin peeling facial",
+  title: "Chemical Face Peel Vadodara ₹2,000 | Bright Skin | Book",
+  description: "✨ Chemical face peel in Vadodara ₹2,000 ✓ Safe skin peeling ✓ Brighter complexion ✓ Treats pigmentation & acne ✓ Expert dermatologist. Book now!",
+  keywords: "chemical face peel vadodara, facial peel vadodara, face peel cost vadodara, chemical peel near me",
 };
 
 export default function ChemicalFacePeelPage() {

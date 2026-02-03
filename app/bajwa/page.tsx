@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Bajwa, Vadodara | Trusted Skin Doctor",
-  description: "Expert skin and hair clinic in Bajwa, Vadodara. Treatment for acne, hair fall, skin problems & laser procedures. Serving Bajwa and nearby areas.",
-  keywords: "skin clinic bajwa, dermatologist bajwa vadodara, hair specialist bajwa, skin doctor bajwa",
+  title: "Skin & Hair Clinic in Bajwa | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Bajwa, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic bajwa, dermatologist bajwa vadodara, hair clinic bajwa, skin doctor near bajwa",
 };
 
 export default function BajwaPage() {

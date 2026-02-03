@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic on Old Padra Road, Vadodara | Dermatology Experts",
-  description: "Leading skin and hair clinic on Old Padra Road, Vadodara. Specialized treatments for acne, hair transplant, laser hair removal & skin rejuvenation. Book now!",
-  keywords: "skin clinic old padra road, dermatologist old padra road, hair clinic padra road vadodara, skin specialist padra road",
+  title: "Skin Clinic Old Padra Road | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic on Old Padra Road, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic old padra road, dermatologist old padra road vadodara, hair clinic old padra road, skin doctor near old padra road",
 };
 
 export default function OldPadraRoadPage() {

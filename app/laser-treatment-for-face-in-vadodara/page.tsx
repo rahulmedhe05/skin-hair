@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Laser Treatment for Face in Vadodara | Facial Laser Therapy",
-  description: "Advanced facial laser treatment in Vadodara. Laser for acne scars, pigmentation, skin tightening & rejuvenation. Multiple laser platforms available.",
-  keywords: "laser treatment face vadodara, facial laser vadodara, laser for acne scars, laser skin treatment vadodara",
+  title: "Laser Treatment for Face Vadodara | FDA Approved | Book",
+  description: "✨ Facial laser treatment in Vadodara ✓ US FDA approved ✓ Acne scars, pigmentation, aging ✓ Multiple lasers ✓ Expert dermatologists. Starting ₹3,000!",
+  keywords: "laser treatment face vadodara, facial laser vadodara, laser for face cost, face laser treatment near me",
 };
 
 export default function LaserTreatmentFacePage() {

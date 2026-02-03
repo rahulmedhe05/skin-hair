@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Ellora Park, Vadodara | Top Dermatologist",
-  description: "Expert skin and hair clinic in Ellora Park, Vadodara. Specialized treatments for acne, hair fall, laser procedures & anti-aging. Serving Ellora Park area.",
-  keywords: "skin clinic ellora park, dermatologist ellora park vadodara, hair specialist ellora park, skin doctor ellora park",
+  title: "Skin Clinic Ellora Park | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Ellora Park, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic ellora park, dermatologist ellora park vadodara, hair clinic ellora park, skin doctor near ellora park",
 };
 
 export default function ElloraParkPage() {

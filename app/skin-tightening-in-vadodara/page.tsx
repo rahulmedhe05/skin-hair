@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Tightening in Vadodara | Non-Surgical Skin Firming",
-  description: "Advanced skin tightening treatments in Vadodara. Non-surgical solutions for sagging skin, loose jowls & body laxity. HIFU, RF & more.",
-  keywords: "skin tightening vadodara, non surgical skin tightening, loose skin treatment vadodara, skin firming vadodara",
+  title: "Skin Tightening Vadodara | Non-Surgical Lift | ₹5,000",
+  description: "✨ Skin tightening in Vadodara from ₹5,000 ✓ HIFU, RF, laser ✓ No surgery ✓ Visible lift in 1 session ✓ Treats sagging skin. Look 5 years younger. Book!",
+  keywords: "skin tightening vadodara, non surgical skin tightening, hifu vadodara, skin tightening cost",
 };
 
 export default function SkinTighteningPage() {

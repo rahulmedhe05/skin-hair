@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Skin & Hair Clinic in Vadodara | Dermatologist & Hair Specialist",
-  description: "Looking for the best skin and hair clinic in Vadodara? Our expert dermatologists and trichologists offer advanced treatments for all skin and hair problems. Book your consultation today!",
-  keywords: "skin clinic vadodara, hair clinic vadodara, dermatologist vadodara, hair specialist vadodara, skin treatment vadodara",
+  title: "Skin & Hair Clinic in Vadodara | #1 Dermatologist",
+  description: "🏆 Top skin & hair clinic in Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic vadodara, dermatologist vadodara, hair clinic vadodara, skin doctor near vadodara",
 };
 
 export default function VadodaraPage() {

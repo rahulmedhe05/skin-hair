@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Laxmipura, Vadodara | Trusted Dermatologist",
-  description: "Best skin and hair clinic in Laxmipura, Vadodara. Expert treatment for acne, hair fall, skin problems & dermatological conditions. Serving Laxmipura area.",
-  keywords: "skin clinic laxmipura, dermatologist laxmipura vadodara, hair specialist laxmipura, skin doctor laxmipura",
+  title: "Skin & Hair Clinic in Laxmipura | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Laxmipura, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic laxmipura, dermatologist laxmipura vadodara, hair clinic laxmipura, skin doctor near laxmipura",
 };
 
 export default function LaxmipuraPage() {

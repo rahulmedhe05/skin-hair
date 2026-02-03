@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Thread Lift in Vadodara | Non-Surgical Face Lift",
-  description: "Professional thread lift treatment in Vadodara. Non-surgical face lifting using PDO threads. Instant lift with collagen stimulation benefits.",
-  keywords: "thread lift vadodara, pdo threads vadodara, non surgical facelift vadodara, face lift threads",
+  title: "Thread Lift Vadodara ₹25,000 | Instant Lift | Book Now",
+  description: "✨ Thread lift in Vadodara from ₹25,000 ✓ Instant lifting ✓ No surgery ✓ Lunch-time procedure ✓ Results last 2 years. PDO threads by experts. Book!",
+  keywords: "thread lift vadodara, pdo threads vadodara, non surgical facelift vadodara, thread lift cost",
 };
 
 export default function ThreadLiftPage() {

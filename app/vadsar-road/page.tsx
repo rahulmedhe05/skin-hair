@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic on Vadsar Road, Vadodara | Trusted Dermatologist",
-  description: "Best skin and hair clinic on Vadsar Road, Vadodara. Expert treatment for hair loss, acne, laser procedures & skin problems. Serving Vadsar area.",
-  keywords: "skin clinic vadsar road, dermatologist vadsar vadodara, hair specialist vadsar, skin doctor vadsar road",
+  title: "Skin & Hair Clinic Vadsar Road | Dermatologist",
+  description: "🏆 Top skin & hair clinic on Vadsar Road, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic vadsar road, dermatologist vadsar road vadodara, hair clinic vadsar road, skin doctor near vadsar road",
 };
 
 export default function VadsarRoadPage() {

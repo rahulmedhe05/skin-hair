@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Alkapuri, Vadodara | Expert Dermatologists",
-  description: "Premium skin and hair clinic in Alkapuri, Vadodara. Our dermatologists specialize in acne, hair loss, laser treatments & anti-aging. Visit us near Race Course Road.",
-  keywords: "skin clinic alkapuri, dermatologist alkapuri vadodara, hair clinic alkapuri, skin specialist alkapuri",
+  title: "Skin & Hair Clinic in Alkapuri | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic in Alkapuri, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic alkapuri, dermatologist alkapuri vadodara, hair clinic alkapuri, skin doctor near alkapuri",
 };
 
 export default function AlkapuriPage() {

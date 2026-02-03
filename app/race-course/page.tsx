@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic near Race Course, Vadodara | Premium Dermatology",
-  description: "Exclusive skin and hair clinic near Race Course, Vadodara. Advanced treatments for hair transplant, laser, anti-aging & cosmetic procedures. Elite care.",
-  keywords: "skin clinic race course vadodara, dermatologist race course, hair specialist race course vadodara, premium skin clinic vadodara",
+  title: "Skin Clinic Race Course | Best Dermatologist",
+  description: "🏆 Top skin & hair clinic near Race Course, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic race course, dermatologist race course vadodara, hair clinic race course, skin doctor near race course",
 };
 
 export default function RaceCoursePage() {

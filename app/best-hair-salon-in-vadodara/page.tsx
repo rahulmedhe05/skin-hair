@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Hair Salon in Vadodara | Professional Hair Services",
-  description: "Visit the best hair salon in Vadodara. Professional hair treatments, styling & hair care services. Expert stylists for all hair needs.",
-  keywords: "best hair salon vadodara, hair salon vadodara, professional hair salon, hair styling vadodara",
+  title: "Best Hair Salon Vadodara | Premium Hair Care | ₹500",
+  description: "💇 Best hair salon in Vadodara ✓ Premium treatments ✓ Expert stylists ✓ Hair botox, keratin, spa ✓ Transform your hair. Starting ₹500. Book your slot!",
+  keywords: "best hair salon vadodara, hair salon vadodara, professional hair salon, hair salon near me",
 };
 
 export default function BestHairSalonPage() {

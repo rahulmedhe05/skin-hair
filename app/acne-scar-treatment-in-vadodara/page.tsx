@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Acne Scar Treatment in Vadodara | Best Scar Removal Clinic",
-  description: "Advanced acne scar treatment in Vadodara. Expert removal of pimple marks, ice pick scars, box scars & rolling scars. Laser, microneedling & chemical peels.",
-  keywords: "acne scar treatment vadodara, pimple scar removal vadodara, acne marks treatment, scar specialist vadodara",
+  title: "Acne Scar Treatment Vadodara | 70% Improvement | Book",
+  description: "✅ Acne scar treatment in Vadodara ✓ 70% scar improvement ✓ Laser + microneedling ✓ All scar types treated ✓ 5,000+ patients. Starting ₹3,000. Book now!",
+  keywords: "acne scar treatment vadodara, pimple scar removal vadodara, acne marks treatment, scar removal cost vadodara",
 };
 
 export default function AcneScarTreatmentPage() {

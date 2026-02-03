@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hair Regrowth Treatment in Vadodara | Regrow Thinning Hair",
-  description: "Advanced hair regrowth treatment in Vadodara. Stimulate dormant follicles & regrow thinning hair. PRP, medications & combination therapies for regrowth.",
-  keywords: "hair regrowth treatment vadodara, regrow hair vadodara, hair growth treatment, stimulate hair growth vadodara",
+  title: "Hair Regrowth Treatment Vadodara | New Hair | ₹5,000",
+  description: "💇 Hair regrowth treatment in Vadodara from ₹5,000 ✓ Regrow thinning areas ✓ PRP + minoxidil combo ✓ 70% see new hair in 3 months. Book consultation now!",
+  keywords: "hair regrowth treatment vadodara, regrow hair vadodara, hair regrowth cost vadodara, regrow thinning hair",
 };
 
 export default function HairRegrowthTreatmentPage() {

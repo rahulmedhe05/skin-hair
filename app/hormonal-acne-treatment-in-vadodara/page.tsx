@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Hormonal Acne Treatment in Vadodara | PCOS & Adult Acne",
-  description: "Expert hormonal acne treatment in Vadodara. Specialized care for PCOS acne, adult female acne, jawline acne & menstrual cycle breakouts.",
-  keywords: "hormonal acne treatment vadodara, PCOS acne treatment, adult acne treatment vadodara, jawline acne treatment",
+  title: "Hormonal Acne Treatment Vadodara | PCOS Acne | ₹500",
+  description: "✅ Hormonal acne treatment in Vadodara ✓ PCOS & adult acne expert ✓ Jawline acne cleared ✓ Balance hormones ✓ Long-term solution. Consult ₹500. Book now!",
+  keywords: "hormonal acne treatment vadodara, PCOS acne treatment, adult acne vadodara, jawline acne treatment",
 };
 
 export default function HormonalAcneTreatmentPage() {

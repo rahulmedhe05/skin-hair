@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Eczema Treatment in Vadodara | Best Eczema Specialist",
-  description: "Expert eczema treatment in Vadodara. Specialized care for atopic dermatitis, contact eczema & all types. Relief from itching, redness & dry skin.",
-  keywords: "eczema treatment vadodara, atopic dermatitis treatment, eczema specialist vadodara, skin eczema doctor",
+  title: "Eczema Treatment Vadodara | Fast Relief | ₹500 Consult",
+  description: "✅ Eczema treatment in Vadodara ✓ 90% get relief in 2 weeks ✓ Stop itching fast ✓ Atopic dermatitis expert ✓ Long-term control. Consult ₹500. Call now!",
+  keywords: "eczema treatment vadodara, atopic dermatitis treatment, eczema specialist vadodara, eczema doctor near me",
 };
 
 export default function EczemaTreatmentPage() {

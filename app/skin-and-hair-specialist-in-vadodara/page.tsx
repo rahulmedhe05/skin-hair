@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Best Skin & Hair Specialist in Vadodara | Expert Dermatologist",
-  description: "Leading skin and hair specialist in Vadodara. Complete care for all skin conditions & hair problems. Advanced treatments by qualified dermatologist.",
-  keywords: "skin and hair specialist vadodara, skin hair doctor vadodara, hair skin specialist, dermatologist for skin and hair",
+  title: "Skin & Hair Specialist Vadodara | Complete Care | ₹500",
+  description: "🏆 Skin & hair specialist in Vadodara ✓ MD dermatologist ✓ All skin & hair problems ✓ Latest treatments ✓ 10,000+ patients. Consultation ₹500. Book today!",
+  keywords: "skin and hair specialist vadodara, skin hair doctor vadodara, hair skin specialist, dermatologist near me",
 };
 
 export default function SkinHairSpecialistPage() {

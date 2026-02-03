@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Botox Treatment in Vadodara | Best Botox Clinic & Doctor",
-  description: "Expert Botox treatment in Vadodara. Wrinkle reduction, forehead lines, crow's feet & preventive Botox by experienced cosmetic dermatologist.",
-  keywords: "botox vadodara, botox treatment vadodara, botox for wrinkles vadodara, botox clinic vadodara",
+  title: "Botox in Vadodara ₹8,000 | US FDA Approved | Book Now",
+  description: "✨ Botox treatment in Vadodara from ₹8,000/area ✓ US FDA approved ✓ Natural results ✓ No downtime ✓ Expert injectors. Look 10 years younger. Call now!",
+  keywords: "botox vadodara, botox treatment vadodara, botox for wrinkles vadodara, botox cost vadodara",
 };
 
 export default function BotoxTreatmentPage() {

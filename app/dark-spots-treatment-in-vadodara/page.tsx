@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Dark Spots Treatment in Vadodara | Spot Removal Specialist",
-  description: "Effective dark spots treatment in Vadodara. Expert removal of sun spots, age spots, post-acne spots & all types of hyperpigmentation.",
-  keywords: "dark spots treatment vadodara, spot removal vadodara, hyperpigmentation treatment, sun spots treatment vadodara",
+  title: "Dark Spots Treatment Vadodara | 80% Fading | ₹2,000",
+  description: "✅ Dark spots treatment in Vadodara from ₹2,000 ✓ 80% fading guaranteed ✓ Sun spots, age spots ✓ Laser + peels ✓ Even skin tone. Book consultation!",
+  keywords: "dark spots treatment vadodara, spot removal vadodara, dark spots cost vadodara, dark spots near me",
 };
 
 export default function DarkSpotsTreatmentPage() {

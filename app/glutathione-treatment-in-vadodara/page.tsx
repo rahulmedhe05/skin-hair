@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Glutathione Treatment in Vadodara | Skin Lightening",
-  description: "Professional glutathione treatment in Vadodara. IV glutathione & oral supplementation for skin brightening, antioxidant benefits & overall wellness.",
-  keywords: "glutathione treatment vadodara, glutathione injection vadodara, skin glutathione, IV glutathione vadodara",
+  title: "Glutathione Treatment Vadodara ₹3,000 | Skin Glow | Book",
+  description: "✨ Glutathione treatment in Vadodara from ₹3,000 ✓ IV & oral options ✓ Skin brightening ✓ Antioxidant boost ✓ Full body glow. Medically supervised. Book!",
+  keywords: "glutathione treatment vadodara, glutathione injection vadodara, glutathione cost vadodara, skin glow treatment",
 };
 
 export default function GlutathioneTreatmentPage() {

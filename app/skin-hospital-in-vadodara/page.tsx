@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin Hospital in Vadodara | Advanced Dermatology Center",
-  description: "Best skin hospital in Vadodara with advanced dermatology treatments. Expert doctors & modern facilities for all skin conditions.",
-  keywords: "skin hospital vadodara, dermatology hospital vadodara, skin treatment hospital, skin care hospital",
+  title: "Skin Hospital Vadodara | Advanced Dermatology | ₹500",
+  description: "🏆 Best skin hospital in Vadodara ✓ Advanced facilities ✓ US FDA approved tech ✓ MD dermatologists ✓ All skin conditions treated. Consult ₹500. Visit today!",
+  keywords: "skin hospital vadodara, dermatology hospital vadodara, skin treatment hospital, skin hospital near me",
 };
 
 export default function SkinHospitalPage() {

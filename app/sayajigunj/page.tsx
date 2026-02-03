@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Skin & Hair Clinic in Sayajigunj, Vadodara | Top Dermatologist",
-  description: "Premium skin and hair clinic in Sayajigunj, Vadodara. Expert dermatologists for acne, hair fall, laser & anti-aging treatments. Near Sayaji Garden.",
-  keywords: "skin clinic sayajigunj, dermatologist sayajigunj vadodara, hair specialist sayajigunj, skin doctor near sayaji garden",
+  title: "Skin & Hair Clinic in Sayajigunj | Dermatologist",
+  description: "🏆 Top skin & hair clinic in Sayajigunj, Vadodara ✓ Expert dermatologists ✓ Hair fall treatment ✓ Acne specialist ✓ Laser hair removal ✓ Walk-in welcome. Book Now!",
+  keywords: "skin clinic sayajigunj, dermatologist sayajigunj vadodara, hair clinic sayajigunj, skin doctor near sayajigunj",
 };
 
 export default function SayajigunjPage() {

@@ -5,9 +5,9 @@ import { businesses } from "@/lib/business-config";
 const business = businesses[0];
 
 export const metadata: Metadata = {
-  title: "Beauty Salon in Vadodara | Premium Beauty Services",
-  description: "Premium beauty salon in Vadodara offering advanced skin & hair treatments. Professional beauty services for glowing skin and gorgeous hair.",
-  keywords: "beauty salon vadodara, beauty parlour vadodara, skin beauty salon, hair beauty salon vadodara",
+  title: "Beauty Salon Vadodara | Premium Services | ₹500",
+  description: "✨ Premium beauty salon in Vadodara ✓ Skin & hair experts ✓ Advanced treatments ✓ Bridal packages ✓ Glow like never before. Starting ₹500. Book now!",
+  keywords: "beauty salon vadodara, beauty parlour vadodara, beauty salon near me, best beauty salon",
 };
 
 export default function BeautySalonPage() {
