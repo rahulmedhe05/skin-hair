@@ -3,7 +3,7 @@ import { vadodaraAreas } from '@/lib/business-config'
 import { skinHairKeywords } from '@/lib/keywords-config'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://skinhairclinicvadodara.com'
+  const baseUrl = 'https://skinhairvadodara.in'
   const currentDate = new Date()
 
   // Home page
