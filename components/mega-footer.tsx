@@ -242,7 +242,8 @@ export function MegaFooter() {
               <MapPin className="w-5 h-5 text-pink-400 mt-1 flex-shrink-0" />
               <div>
                 <h4 className="font-semibold">Visit Us</h4>
-                <p className="text-gray-400">123, Skin & Hair Clinic,</p>
+                <p className="text-gray-400">G-12, Royal Business Park,</p>
+                <p className="text-gray-400">Opp. Inox Cinema, RC Dutt Road,</p>
                 <p className="text-gray-400">Alkapuri, Vadodara - 390007</p>
               </div>
             </div>
