@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="40" fill="url(#bgGrad)"/>
+  <!-- P1 for Prime One -->
+  <text x="90" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="80" fill="white">P1</text>
+  <!-- Decorative accent curves -->
+  <path d="M40 40 Q90 20 140 40" stroke="white" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M40 140 Q90 160 140 140" stroke="white" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.7"/>
+</svg>
