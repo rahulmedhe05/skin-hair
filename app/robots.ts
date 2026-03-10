@@ -1,30 +1,15 @@
-import { MetadataRoute } from 'next'
+import { MetadataRoute } from "next";
+import { SEO_CONFIG } from "@/lib/seo-config";
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://skinhairvadodara.in'
-
   return {
     rules: [
       {
-        userAgent: '*',
-        allow: '/',
-        disallow: [
-          '/api/',
-          '/_next/',
-          '/leads/',
-          '/*.json$',
-        ],
-      },
-      {
-        userAgent: 'Googlebot',
-        allow: '/',
-      },
-      {
-        userAgent: 'Bingbot',
-        allow: '/',
+        userAgent: "*",
+        allow: "/",
+        disallow: ["/api/", "/admin/", "/_next/", "/private/"],
       },
     ],
-    sitemap: `${baseUrl}/sitemap.xml`,
-    host: baseUrl,
-  }
+    sitemap: `${SEO_CONFIG.siteUrl}/sitemap.xml`,
+  };
 }
